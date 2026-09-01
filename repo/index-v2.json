@@ -6,12 +6,12 @@
     "description": {
       "en-US": "Accessible Android apps for blind users by Adrian Van der Berg"
     },
-    "address": "https://avanderberg48-collab.github.io/fdroid-repo/repo/",
-    "timestamp": 1788283205316,
+    "address": "https://avanderberg48-collab.github.io/fdroid-repo/repo",
+    "timestamp": 1788284156920,
     "mirrors": [
       {
         "isPrimary": true,
-        "url": "https://avanderberg48-collab.github.io/fdroid-repo/repo/"
+        "url": "https://avanderberg48-collab.github.io/fdroid-repo/repo"
       }
     ],
     "webBaseUrl": "https://github.com/avanderberg48-collab/fdroid-repo"
