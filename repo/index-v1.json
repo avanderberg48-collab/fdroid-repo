@@ -1,0 +1,302 @@
+{
+  "repo": {
+    "name": "Blind Community Apps",
+    "description": "Accessible Android apps for blind users by Adrian Van der Berg",
+    "timestamp": "1788280565",
+    "address": "https://avanderberg48-collab.github.io/fdroid-repo/repo/"
+  },
+  "apps": [
+    {
+      "packageName": "com.mandy.accessichat",
+      "name": "AccessiChat",
+      "summary": "Accessible messenger with games",
+      "description": "Accessible messenger with 88 voice games, radio, voice calling, AI assistant.",
+      "authorName": "Adrian Van der Berg",
+      "categories": [
+        "Communication",
+        "Games"
+      ],
+      "license": "Proprietary",
+      "added": "1788280565",
+      "lastUpdated": "1788280565",
+      "webSite": "https://github.com/avanderberg48-collab/fdroid-repo",
+      "versions": [
+        {
+          "versionName": "17.0",
+          "versionCode": 17,
+          "minSdkVersion": "26",
+          "apkName": "AccessiChat_v17.apk",
+          "size": 3208842,
+          "sha256": "17a1398e6a0be4cbcf5e0989fb0eafe0bb0b3cee4942692d47611ad5f3dbdcc7",
+          "url": "AccessiChat_v17.apk"
+        }
+      ]
+    },
+    {
+      "packageName": "com.mandy.adrianbrowser",
+      "name": "Adrian Browser",
+      "summary": "Accessible web browser",
+      "description": "Accessible web browser with bookmarks, history, TTS read-aloud.",
+      "authorName": "Adrian Van der Berg",
+      "categories": [
+        "Internet"
+      ],
+      "license": "Proprietary",
+      "added": "1788280565",
+      "lastUpdated": "1788280565",
+      "webSite": "https://github.com/avanderberg48-collab/fdroid-repo",
+      "versions": [
+        {
+          "versionName": "1.0",
+          "versionCode": 1,
+          "minSdkVersion": "21",
+          "apkName": "AdrianBrowser_v2.apk",
+          "size": 5960100,
+          "sha256": "9daa3aa832f86f6bd43a110cf239edc2c07de895cbf896358525a00d29286907",
+          "url": "AdrianBrowser_v2.apk"
+        }
+      ]
+    },
+    {
+      "packageName": "com.mandy.mandyagent",
+      "name": "Ask Mandy",
+      "summary": "Chat with Mandy AI",
+      "description": "Chat directly with Mandy AI. Voice notes, file attachments, AI voice calls.",
+      "authorName": "Adrian Van der Berg",
+      "categories": [
+        "AI"
+      ],
+      "license": "Proprietary",
+      "added": "1788280565",
+      "lastUpdated": "1788280565",
+      "webSite": "https://github.com/avanderberg48-collab/fdroid-repo",
+      "versions": [
+        {
+          "versionName": "7.0",
+          "versionCode": 7,
+          "minSdkVersion": "24",
+          "apkName": "AskMandy_v7.apk",
+          "size": 5514593,
+          "sha256": "1e4fc376d96e3fa9c315c92f9c045922b74472ae58708732df3074b9e3c45cc8",
+          "url": "AskMandy_v7.apk"
+        }
+      ]
+    },
+    {
+      "packageName": "com.mandy.cloudphone",
+      "name": "CloudPhone",
+      "summary": "Cloud phone app",
+      "description": "Cloud phone with calling, messaging, contacts. Native Android version.",
+      "authorName": "Adrian Van der Berg",
+      "categories": [
+        "Communication"
+      ],
+      "license": "Proprietary",
+      "added": "1788280565",
+      "lastUpdated": "1788280565",
+      "webSite": "https://github.com/avanderberg48-collab/fdroid-repo",
+      "versions": [
+        {
+          "versionName": "1.0",
+          "versionCode": 1,
+          "minSdkVersion": "24",
+          "apkName": "CloudPhone_v5.apk",
+          "size": 5597186,
+          "sha256": "872144a27e90fd3b586e65952af323ca39ced10264fb6ce21b11c83f1860eb15",
+          "url": "CloudPhone_v5.apk"
+        }
+      ]
+    },
+    {
+      "packageName": "com.mandy.connecti",
+      "name": "Connecti",
+      "summary": "Accessible messenger",
+      "description": "Messenger with text, photo, voice messages, groups, read receipts.",
+      "authorName": "Adrian Van der Berg",
+      "categories": [
+        "Communication"
+      ],
+      "license": "Proprietary",
+      "added": "1788280565",
+      "lastUpdated": "1788280565",
+      "webSite": "https://github.com/avanderberg48-collab/fdroid-repo",
+      "versions": [
+        {
+          "versionName": "1.0",
+          "versionCode": 1,
+          "minSdkVersion": "24",
+          "apkName": "Connecti_v4.apk",
+          "size": 5613570,
+          "sha256": "e49fea6eca242eac95ea2572a02b7226378e5c2d533dadf0835220e44edf8b4a",
+          "url": "Connecti_v4.apk"
+        }
+      ]
+    },
+    {
+      "packageName": "com.mandy.ignite",
+      "name": "Ignite Dating",
+      "summary": "Accessible dating app",
+      "description": "South African dating app with profiles, matching, chat, voice notes.",
+      "authorName": "Adrian Van der Berg",
+      "categories": [
+        "Dating"
+      ],
+      "license": "Proprietary",
+      "added": "1788280565",
+      "lastUpdated": "1788280565",
+      "webSite": "https://github.com/avanderberg48-collab/fdroid-repo",
+      "versions": [
+        {
+          "versionName": "1.0",
+          "versionCode": 1,
+          "minSdkVersion": "24",
+          "apkName": "Ignite_v3.apk",
+          "size": 5602536,
+          "sha256": "c2a3d70f416580a3e716862b8410a8521ec50be6cc3ec30440e69e4a73cc81da",
+          "url": "Ignite_v3.apk"
+        }
+      ]
+    },
+    {
+      "packageName": "com.mandy.mandyagent.offline",
+      "name": "Mandy Agent Offline",
+      "summary": "Offline AI assistant",
+      "description": "Offline AI assistant with phone control and training.",
+      "authorName": "Adrian Van der Berg",
+      "categories": [
+        "AI",
+        "System"
+      ],
+      "license": "Proprietary",
+      "added": "1788280565",
+      "lastUpdated": "1788280565",
+      "webSite": "https://github.com/avanderberg48-collab/fdroid-repo",
+      "versions": [
+        {
+          "versionName": "1.0",
+          "versionCode": 1,
+          "minSdkVersion": "26",
+          "apkName": "MandyOffline_v2.apk",
+          "size": 3769974,
+          "sha256": "0ab43c2301751cac6bd407fbc97060f00c6368f3b76580122fda8dea68166d8a",
+          "url": "MandyOffline_v2.apk"
+        }
+      ]
+    },
+    {
+      "packageName": "com.mandy.wavecast",
+      "name": "WaveCast Studio",
+      "summary": "Internet radio studio",
+      "description": "Internet radio broadcast studio with live broadcasting and scheduling.",
+      "authorName": "Adrian Van der Berg",
+      "categories": [
+        "Audio"
+      ],
+      "license": "Proprietary",
+      "added": "1788280565",
+      "lastUpdated": "1788280565",
+      "webSite": "https://github.com/avanderberg48-collab/fdroid-repo",
+      "versions": [
+        {
+          "versionName": "1.0",
+          "versionCode": 1,
+          "minSdkVersion": "24",
+          "apkName": "WaveCast_v3.apk",
+          "size": 5576648,
+          "sha256": "a5a72236bb9a02acebcccd8e8a427bdde651ba450707bfbe2854e848b795eb6c",
+          "url": "WaveCast_v3.apk"
+        }
+      ]
+    }
+  ],
+  "packages": {
+    "com.mandy.accessichat": [
+      {
+        "versionName": "17.0",
+        "versionCode": 17,
+        "minSdkVersion": "26",
+        "apkName": "AccessiChat_v17.apk",
+        "size": 3208842,
+        "sha256": "17a1398e6a0be4cbcf5e0989fb0eafe0bb0b3cee4942692d47611ad5f3dbdcc7",
+        "url": "AccessiChat_v17.apk"
+      }
+    ],
+    "com.mandy.adrianbrowser": [
+      {
+        "versionName": "1.0",
+        "versionCode": 1,
+        "minSdkVersion": "21",
+        "apkName": "AdrianBrowser_v2.apk",
+        "size": 5960100,
+        "sha256": "9daa3aa832f86f6bd43a110cf239edc2c07de895cbf896358525a00d29286907",
+        "url": "AdrianBrowser_v2.apk"
+      }
+    ],
+    "com.mandy.mandyagent": [
+      {
+        "versionName": "7.0",
+        "versionCode": 7,
+        "minSdkVersion": "24",
+        "apkName": "AskMandy_v7.apk",
+        "size": 5514593,
+        "sha256": "1e4fc376d96e3fa9c315c92f9c045922b74472ae58708732df3074b9e3c45cc8",
+        "url": "AskMandy_v7.apk"
+      }
+    ],
+    "com.mandy.cloudphone": [
+      {
+        "versionName": "1.0",
+        "versionCode": 1,
+        "minSdkVersion": "24",
+        "apkName": "CloudPhone_v5.apk",
+        "size": 5597186,
+        "sha256": "872144a27e90fd3b586e65952af323ca39ced10264fb6ce21b11c83f1860eb15",
+        "url": "CloudPhone_v5.apk"
+      }
+    ],
+    "com.mandy.connecti": [
+      {
+        "versionName": "1.0",
+        "versionCode": 1,
+        "minSdkVersion": "24",
+        "apkName": "Connecti_v4.apk",
+        "size": 5613570,
+        "sha256": "e49fea6eca242eac95ea2572a02b7226378e5c2d533dadf0835220e44edf8b4a",
+        "url": "Connecti_v4.apk"
+      }
+    ],
+    "com.mandy.ignite": [
+      {
+        "versionName": "1.0",
+        "versionCode": 1,
+        "minSdkVersion": "24",
+        "apkName": "Ignite_v3.apk",
+        "size": 5602536,
+        "sha256": "c2a3d70f416580a3e716862b8410a8521ec50be6cc3ec30440e69e4a73cc81da",
+        "url": "Ignite_v3.apk"
+      }
+    ],
+    "com.mandy.mandyagent.offline": [
+      {
+        "versionName": "1.0",
+        "versionCode": 1,
+        "minSdkVersion": "26",
+        "apkName": "MandyOffline_v2.apk",
+        "size": 3769974,
+        "sha256": "0ab43c2301751cac6bd407fbc97060f00c6368f3b76580122fda8dea68166d8a",
+        "url": "MandyOffline_v2.apk"
+      }
+    ],
+    "com.mandy.wavecast": [
+      {
+        "versionName": "1.0",
+        "versionCode": 1,
+        "minSdkVersion": "24",
+        "apkName": "WaveCast_v3.apk",
+        "size": 5576648,
+        "sha256": "a5a72236bb9a02acebcccd8e8a427bdde651ba450707bfbe2854e848b795eb6c",
+        "url": "WaveCast_v3.apk"
+      }
+    ]
+  }
+}
