@@ -1,0 +1,383 @@
+{
+  "repo": {
+    "name": {
+      "en-US": "Blind Community Apps"
+    },
+    "description": {
+      "en-US": "Accessible Android apps for blind users by Adrian Van der Berg"
+    },
+    "address": "https://avanderberg48-collab.github.io/fdroid-repo/repo/",
+    "timestamp": 1788283205316,
+    "mirrors": [
+      {
+        "isPrimary": true,
+        "url": "https://avanderberg48-collab.github.io/fdroid-repo/repo/"
+      }
+    ],
+    "webBaseUrl": "https://github.com/avanderberg48-collab/fdroid-repo"
+  },
+  "packages": {
+    "com.mandy.accessichat": {
+      "metadata": {
+        "added": 1788280565,
+        "categories": [
+          "Communication",
+          "Games"
+        ],
+        "lastUpdated": 1788280565,
+        "license": "Proprietary",
+        "sourceCode": "https://github.com/avanderberg48-collab/fdroid-repo",
+        "name": {
+          "en-US": "AccessiChat"
+        },
+        "summary": {
+          "en-US": "Accessible messenger with games"
+        },
+        "description": {
+          "en-US": "Accessible messenger with 88 voice games, radio, voice calling, AI assistant."
+        },
+        "authorName": "Adrian Van der Berg",
+        "authorWebSite": "https://github.com/avanderberg48-collab"
+      },
+      "versions": {
+        "17a1398e6a0be4cbcf5e0989fb0eafe0bb0b3cee4942692d47611ad5f3dbdcc7": {
+          "added": 1788280565,
+          "file": {
+            "name": "/AccessiChat_v17.apk",
+            "sha256": "17a1398e6a0be4cbcf5e0989fb0eafe0bb0b3cee4942692d47611ad5f3dbdcc7",
+            "size": 3208842
+          },
+          "manifest": {
+            "versionName": "17.0",
+            "versionCode": 17,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "17a1398e6a0be4cbcf5e0989fb0eafe0bb0b3cee4942692d47611ad5f3dbdcc7"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "com.mandy.adrianbrowser": {
+      "metadata": {
+        "added": 1788280565,
+        "categories": [
+          "Internet"
+        ],
+        "lastUpdated": 1788280565,
+        "license": "Proprietary",
+        "sourceCode": "https://github.com/avanderberg48-collab/fdroid-repo",
+        "name": {
+          "en-US": "Adrian Browser"
+        },
+        "summary": {
+          "en-US": "Accessible web browser"
+        },
+        "description": {
+          "en-US": "Accessible web browser with bookmarks, history, TTS read-aloud."
+        },
+        "authorName": "Adrian Van der Berg",
+        "authorWebSite": "https://github.com/avanderberg48-collab"
+      },
+      "versions": {
+        "9daa3aa832f86f6bd43a110cf239edc2c07de895cbf896358525a00d29286907": {
+          "added": 1788280565,
+          "file": {
+            "name": "/AdrianBrowser_v2.apk",
+            "sha256": "9daa3aa832f86f6bd43a110cf239edc2c07de895cbf896358525a00d29286907",
+            "size": 5960100
+          },
+          "manifest": {
+            "versionName": "1.0",
+            "versionCode": 1,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "9daa3aa832f86f6bd43a110cf239edc2c07de895cbf896358525a00d29286907"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "com.mandy.mandyagent": {
+      "metadata": {
+        "added": 1788280565,
+        "categories": [
+          "AI"
+        ],
+        "lastUpdated": 1788280565,
+        "license": "Proprietary",
+        "sourceCode": "https://github.com/avanderberg48-collab/fdroid-repo",
+        "name": {
+          "en-US": "Ask Mandy"
+        },
+        "summary": {
+          "en-US": "Chat with Mandy AI"
+        },
+        "description": {
+          "en-US": "Chat directly with Mandy AI. Voice notes, file attachments, AI voice calls."
+        },
+        "authorName": "Adrian Van der Berg",
+        "authorWebSite": "https://github.com/avanderberg48-collab"
+      },
+      "versions": {
+        "1e4fc376d96e3fa9c315c92f9c045922b74472ae58708732df3074b9e3c45cc8": {
+          "added": 1788280565,
+          "file": {
+            "name": "/AskMandy_v7.apk",
+            "sha256": "1e4fc376d96e3fa9c315c92f9c045922b74472ae58708732df3074b9e3c45cc8",
+            "size": 5514593
+          },
+          "manifest": {
+            "versionName": "7.0",
+            "versionCode": 7,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "1e4fc376d96e3fa9c315c92f9c045922b74472ae58708732df3074b9e3c45cc8"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "com.mandy.cloudphone": {
+      "metadata": {
+        "added": 1788280565,
+        "categories": [
+          "Communication"
+        ],
+        "lastUpdated": 1788280565,
+        "license": "Proprietary",
+        "sourceCode": "https://github.com/avanderberg48-collab/fdroid-repo",
+        "name": {
+          "en-US": "CloudPhone"
+        },
+        "summary": {
+          "en-US": "Cloud phone app"
+        },
+        "description": {
+          "en-US": "Cloud phone with calling, messaging, contacts. Native Android version."
+        },
+        "authorName": "Adrian Van der Berg",
+        "authorWebSite": "https://github.com/avanderberg48-collab"
+      },
+      "versions": {
+        "872144a27e90fd3b586e65952af323ca39ced10264fb6ce21b11c83f1860eb15": {
+          "added": 1788280565,
+          "file": {
+            "name": "/CloudPhone_v5.apk",
+            "sha256": "872144a27e90fd3b586e65952af323ca39ced10264fb6ce21b11c83f1860eb15",
+            "size": 5597186
+          },
+          "manifest": {
+            "versionName": "1.0",
+            "versionCode": 1,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "872144a27e90fd3b586e65952af323ca39ced10264fb6ce21b11c83f1860eb15"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "com.mandy.connecti": {
+      "metadata": {
+        "added": 1788280565,
+        "categories": [
+          "Communication"
+        ],
+        "lastUpdated": 1788280565,
+        "license": "Proprietary",
+        "sourceCode": "https://github.com/avanderberg48-collab/fdroid-repo",
+        "name": {
+          "en-US": "Connecti"
+        },
+        "summary": {
+          "en-US": "Accessible messenger"
+        },
+        "description": {
+          "en-US": "Messenger with text, photo, voice messages, groups, read receipts."
+        },
+        "authorName": "Adrian Van der Berg",
+        "authorWebSite": "https://github.com/avanderberg48-collab"
+      },
+      "versions": {
+        "e49fea6eca242eac95ea2572a02b7226378e5c2d533dadf0835220e44edf8b4a": {
+          "added": 1788280565,
+          "file": {
+            "name": "/Connecti_v4.apk",
+            "sha256": "e49fea6eca242eac95ea2572a02b7226378e5c2d533dadf0835220e44edf8b4a",
+            "size": 5613570
+          },
+          "manifest": {
+            "versionName": "1.0",
+            "versionCode": 1,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "e49fea6eca242eac95ea2572a02b7226378e5c2d533dadf0835220e44edf8b4a"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "com.mandy.ignite": {
+      "metadata": {
+        "added": 1788280565,
+        "categories": [
+          "Dating"
+        ],
+        "lastUpdated": 1788280565,
+        "license": "Proprietary",
+        "sourceCode": "https://github.com/avanderberg48-collab/fdroid-repo",
+        "name": {
+          "en-US": "Ignite Dating"
+        },
+        "summary": {
+          "en-US": "Accessible dating app"
+        },
+        "description": {
+          "en-US": "South African dating app with profiles, matching, chat, voice notes."
+        },
+        "authorName": "Adrian Van der Berg",
+        "authorWebSite": "https://github.com/avanderberg48-collab"
+      },
+      "versions": {
+        "c2a3d70f416580a3e716862b8410a8521ec50be6cc3ec30440e69e4a73cc81da": {
+          "added": 1788280565,
+          "file": {
+            "name": "/Ignite_v3.apk",
+            "sha256": "c2a3d70f416580a3e716862b8410a8521ec50be6cc3ec30440e69e4a73cc81da",
+            "size": 5602536
+          },
+          "manifest": {
+            "versionName": "1.0",
+            "versionCode": 1,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "c2a3d70f416580a3e716862b8410a8521ec50be6cc3ec30440e69e4a73cc81da"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "com.mandy.mandyagent.offline": {
+      "metadata": {
+        "added": 1788280565,
+        "categories": [
+          "AI",
+          "System"
+        ],
+        "lastUpdated": 1788280565,
+        "license": "Proprietary",
+        "sourceCode": "https://github.com/avanderberg48-collab/fdroid-repo",
+        "name": {
+          "en-US": "Mandy Agent Offline"
+        },
+        "summary": {
+          "en-US": "Offline AI assistant"
+        },
+        "description": {
+          "en-US": "Offline AI assistant with phone control and training."
+        },
+        "authorName": "Adrian Van der Berg",
+        "authorWebSite": "https://github.com/avanderberg48-collab"
+      },
+      "versions": {
+        "0ab43c2301751cac6bd407fbc97060f00c6368f3b76580122fda8dea68166d8a": {
+          "added": 1788280565,
+          "file": {
+            "name": "/MandyOffline_v2.apk",
+            "sha256": "0ab43c2301751cac6bd407fbc97060f00c6368f3b76580122fda8dea68166d8a",
+            "size": 3769974
+          },
+          "manifest": {
+            "versionName": "1.0",
+            "versionCode": 1,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "0ab43c2301751cac6bd407fbc97060f00c6368f3b76580122fda8dea68166d8a"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "com.mandy.wavecast": {
+      "metadata": {
+        "added": 1788280565,
+        "categories": [
+          "Audio"
+        ],
+        "lastUpdated": 1788280565,
+        "license": "Proprietary",
+        "sourceCode": "https://github.com/avanderberg48-collab/fdroid-repo",
+        "name": {
+          "en-US": "WaveCast Studio"
+        },
+        "summary": {
+          "en-US": "Internet radio studio"
+        },
+        "description": {
+          "en-US": "Internet radio broadcast studio with live broadcasting and scheduling."
+        },
+        "authorName": "Adrian Van der Berg",
+        "authorWebSite": "https://github.com/avanderberg48-collab"
+      },
+      "versions": {
+        "a5a72236bb9a02acebcccd8e8a427bdde651ba450707bfbe2854e848b795eb6c": {
+          "added": 1788280565,
+          "file": {
+            "name": "/WaveCast_v3.apk",
+            "sha256": "a5a72236bb9a02acebcccd8e8a427bdde651ba450707bfbe2854e848b795eb6c",
+            "size": 5576648
+          },
+          "manifest": {
+            "versionName": "1.0",
+            "versionCode": 1,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "a5a72236bb9a02acebcccd8e8a427bdde651ba450707bfbe2854e848b795eb6c"
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}
