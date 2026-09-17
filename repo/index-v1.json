@@ -2,7 +2,7 @@
  "repo": {
   "name": "Blind Community Apps",
   "description": "Accessible Android apps for blind users by Adrian Van der Berg",
-  "timestamp": "1789641021",
+  "timestamp": "1789663501",
   "address": "https://avanderberg48-collab.github.io/fdroid-repo/repo/"
  },
  "apps": [
@@ -332,6 +332,16 @@
     "size": 2538037,
     "sha256": "0e1c513cd4ef79e029b24747cd1e131a9daad6fe7ce528f08f7057b495c4eb7b",
     "url": "blindkeyboard_ai_v15.apk"
+   },
+   {
+    "versionCode": 16,
+    "versionName": "1.6",
+    "apkName": "blindkeyboard_ai_v16.apk",
+    "sha256": "3c88107dabe39fad4212d140202ebcc40c98fde55c24112a1a1f23c34a87700e",
+    "size": 4419475,
+    "minSdkVersion": 21,
+    "targetSdkVersion": 34,
+    "added": 1789663501
    }
   ]
  }

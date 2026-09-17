@@ -7,7 +7,7 @@
    "en-US": "Accessible Android apps for blind users by Adrian Van der Berg"
   },
   "address": "https://avanderberg48-collab.github.io/fdroid-repo/repo",
-  "timestamp": 1789641021,
+  "timestamp": 1789663501,
   "mirrors": [
    {
     "isPrimary": true,
@@ -56,7 +56,7 @@
       },
       "signer": {
        "sha256": [
-        "04fa0d8d3f5edd143d0d3f992177414d9b1e50756983f198e65ae55d99c0ee90"
+        "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
        ]
       }
      }
@@ -101,7 +101,7 @@
       },
       "signer": {
        "sha256": [
-        "04fa0d8d3f5edd143d0d3f992177414d9b1e50756983f198e65ae55d99c0ee90"
+        "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
        ]
       }
      }
@@ -146,7 +146,7 @@
       },
       "signer": {
        "sha256": [
-        "04fa0d8d3f5edd143d0d3f992177414d9b1e50756983f198e65ae55d99c0ee90"
+        "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
        ]
       }
      }
@@ -191,7 +191,7 @@
       },
       "signer": {
        "sha256": [
-        "04fa0d8d3f5edd143d0d3f992177414d9b1e50756983f198e65ae55d99c0ee90"
+        "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
        ]
       }
      }
@@ -236,7 +236,7 @@
       },
       "signer": {
        "sha256": [
-        "04fa0d8d3f5edd143d0d3f992177414d9b1e50756983f198e65ae55d99c0ee90"
+        "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
        ]
       }
      }
@@ -281,7 +281,7 @@
       },
       "signer": {
        "sha256": [
-        "04fa0d8d3f5edd143d0d3f992177414d9b1e50756983f198e65ae55d99c0ee90"
+        "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
        ]
       }
      }
@@ -327,7 +327,7 @@
       },
       "signer": {
        "sha256": [
-        "04fa0d8d3f5edd143d0d3f992177414d9b1e50756983f198e65ae55d99c0ee90"
+        "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
        ]
       }
      }
@@ -372,7 +372,7 @@
       },
       "signer": {
        "sha256": [
-        "04fa0d8d3f5edd143d0d3f992177414d9b1e50756983f198e65ae55d99c0ee90"
+        "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
        ]
       }
      }
@@ -385,7 +385,7 @@
     "categories": [
      "System"
     ],
-    "lastUpdated": 1789641021,
+    "lastUpdated": 1789663501,
     "license": "Proprietary",
     "sourceCode": "https://github.com/avanderberg48-collab/AccessiChat-WebApp-APK",
     "name": {
@@ -401,23 +401,23 @@
     "authorWebSite": "https://github.com/avanderberg48-collab"
    },
    "versions": {
-    "0e1c513cd4ef79e029b24747cd1e131a9daad6fe7ce528f08f7057b495c4eb7b": {
-     "added": 1789641021,
+    "3c88107dabe39fad4212d140202ebcc40c98fde55c24112a1a1f23c34a87700e": {
+     "added": 1789663501,
      "file": {
-      "name": "/blindkeyboard_ai_v15.apk",
-      "sha256": "0e1c513cd4ef79e029b24747cd1e131a9daad6fe7ce528f08f7057b495c4eb7b",
-      "size": 2538037
+      "name": "/blindkeyboard_ai_v16.apk",
+      "sha256": "3c88107dabe39fad4212d140202ebcc40c98fde55c24112a1a1f23c34a87700e",
+      "size": 4419475
      },
      "manifest": {
-      "versionName": "1.5",
-      "versionCode": 15,
+      "versionName": "1.6",
+      "versionCode": 16,
       "usesSdk": {
        "minSdkVersion": 21,
        "targetSdkVersion": 34
       },
       "signer": {
        "sha256": [
-        "04fa0d8d3f5edd143d0d3f992177414d9b1e50756983f198e65ae55d99c0ee90"
+        "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
        ]
       }
      }
