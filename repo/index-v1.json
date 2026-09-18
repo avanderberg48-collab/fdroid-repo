@@ -219,17 +219,18 @@
    ],
    "license": "Proprietary",
    "added": "1789641021",
-   "lastUpdated": "1789641021",
+   "lastUpdated": "1789678000",
    "webSite": "https://github.com/avanderberg48-collab",
    "versions": [
     {
-     "versionName": "1.5",
-     "versionCode": 15,
+     "versionName": "1.6",
+     "versionCode": 16,
      "minSdkVersion": "21",
-     "apkName": "blindkeyboard_ai_v15.apk",
-     "size": 2538037,
-     "sha256": "0e1c513cd4ef79e029b24747cd1e131a9daad6fe7ce528f08f7057b495c4eb7b",
-     "url": "blindkeyboard_ai_v15.apk"
+     "apkName": "blindkeyboard_ai_v16.apk",
+     "size": 4419475,
+     "sha256": "cf0643acfa7b006727435fc2d7be0ae9f144faa38eb780c6e8e72dc5d7e8eba7",
+     "url": "blindkeyboard_ai_v16.apk",
+     "added": "1789641021"
     }
    ]
   }
@@ -325,23 +326,13 @@
   ],
   "com.mandy.blindkeyboard": [
    {
-    "versionName": "1.5",
-    "versionCode": 15,
-    "minSdkVersion": "21",
-    "apkName": "blindkeyboard_ai_v15.apk",
-    "size": 2538037,
-    "sha256": "0e1c513cd4ef79e029b24747cd1e131a9daad6fe7ce528f08f7057b495c4eb7b",
-    "url": "blindkeyboard_ai_v15.apk"
-   },
-   {
     "versionCode": 16,
     "versionName": "1.6",
     "apkName": "blindkeyboard_ai_v16.apk",
-    "sha256": "3c88107dabe39fad4212d140202ebcc40c98fde55c24112a1a1f23c34a87700e",
+    "url": "blindkeyboard_ai_v16.apk",
     "size": 4419475,
-    "minSdkVersion": 21,
-    "targetSdkVersion": 34,
-    "added": 1789714673
+    "sha256": "cf0643acfa7b006727435fc2d7be0ae9f144faa38eb780c6e8e72dc5d7e8eba7",
+    "minSdkVersion": "21"
    }
   ]
  }
