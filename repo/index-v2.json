@@ -7,7 +7,7 @@
    "en-US": "Accessible Android apps for blind users by Adrian Van der Berg"
   },
   "address": "https://avanderberg48-collab.github.io/fdroid-repo/repo",
-  "timestamp": 1789665129,
+  "timestamp": 1789706981,
   "mirrors": [
    {
     "isPrimary": true,
@@ -385,7 +385,7 @@
     "categories": [
      "System"
     ],
-    "lastUpdated": 1789665129,
+    "lastUpdated": 1789706981,
     "license": "Proprietary",
     "sourceCode": "https://github.com/avanderberg48-collab/AccessiChat-WebApp-APK",
     "name": {
@@ -401,16 +401,16 @@
     "authorWebSite": "https://github.com/avanderberg48-collab"
    },
    "versions": {
-    "b771d65ff205b95eaefeefc07b463b17162e8cbd867260a6f405064f41e509f8": {
-     "added": 1789665129,
+    "472a7cc9eb5e20ece5cc97381e34ebdf8c23205f2b519f05c30617f0d70026b1": {
+     "added": 1789706981,
      "file": {
-      "name": "/blindkeyboard_ai_v17.apk",
-      "sha256": "b771d65ff205b95eaefeefc07b463b17162e8cbd867260a6f405064f41e509f8",
+      "name": "/blindkeyboard_ai_v18.apk",
+      "sha256": "472a7cc9eb5e20ece5cc97381e34ebdf8c23205f2b519f05c30617f0d70026b1",
       "size": 4419475
      },
      "manifest": {
-      "versionName": "1.7",
-      "versionCode": 17,
+      "versionName": "1.8",
+      "versionCode": 18,
       "usesSdk": {
        "minSdkVersion": 21,
        "targetSdkVersion": 34
