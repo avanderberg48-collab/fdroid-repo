@@ -424,6 +424,43 @@
      "versionCode": 16
     }
    }
+  },
+  "com.mandy.smartkeyboard": {
+   "metadata": {
+    "added": 1790065838,
+    "categories": [
+     "System"
+    ],
+    "lastUpdated": 1790065838,
+    "license": "Proprietary",
+    "sourceCode": "https://github.com/avanderberg48-collab/AccessiChat-WebApp-APK",
+    "name": {
+     "en-US": "Smart Keyboard"
+    },
+    "summary": {
+     "en-US": "AI keyboard with photo descriptions"
+    },
+    "description": {
+     "en-US": "Smart Keyboard v1.1: AI voice typing with dual-pass Whisper consensus and Gemini 3 Flash proofreading. Afrikaans and English, translate English to Afrikaans, clipboard, symbols, voice notes, word suggestions, and FOTO key: take a photo and the AI describes it aloud."
+    },
+    "authorName": "Adrian Van der Berg",
+    "authorWebSite": "https://github.com/avanderberg48-collab"
+   },
+   "versions": {
+    "2": {
+     "added": 1790065838,
+     "filesize": 4332234,
+     "file": "SmartKeyboard_v1.1.apk",
+     "srcname": "SmartKeyboard_v1.1.apk",
+     "versionCode": 2,
+     "versionName": "1.1",
+     "minSdkVersion": 26,
+     "targetSdkVersion": 34,
+     "hash": "e3377bd8f8fd91bf447be2a073489e3fbd82f73222fba5c7604d2c8a3a9e63bd",
+     "hashType": "sha256",
+     "signer": "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
+    }
+   }
   }
  }
 }

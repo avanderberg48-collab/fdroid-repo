@@ -4,8 +4,8 @@
  "maxAge": 14,
  "index": {
   "name": "/index-v2.json",
-  "sha256": "3dd1f18d42a971c18b4dce36b6533739f2cdd9659c03d92bca0b51222b08a8eb",
+  "sha256": "57e35720626514a0b5826baaaad21c11397afede41a6ec70a756a0ff464c519b",
   "size": 11405,
-  "numPackages": 9
+  "numPackages": 10
  }
 }

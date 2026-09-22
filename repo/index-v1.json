@@ -233,6 +233,18 @@
      "added": "1789641021"
     }
    ]
+  },
+  {
+   "packageName": "com.mandy.smartkeyboard",
+   "name": "Smart Keyboard",
+   "summary": "AI keyboard with photo descriptions",
+   "license": "Proprietary",
+   "added": 1790065838000,
+   "categories": [
+    "System"
+   ],
+   "authorName": "Adrian Van der Berg",
+   "source": "https://github.com/avanderberg48-collab/AccessiChat-WebApp-APK"
   }
  ],
  "packages": {
@@ -334,6 +346,22 @@
     "sha256": "cf0643acfa7b006727435fc2d7be0ae9f144faa38eb780c6e8e72dc5d7e8eba7",
     "minSdkVersion": "21",
     "hash": "ec074e5af829db104521750d1398130a4af262e10609480199a47fa65ff2d430"
+   }
+  ]
+ },
+ "package": {
+  "com.mandy.smartkeyboard": [
+   {
+    "versionCode": 2,
+    "versionName": "1.1",
+    "added": 1790065838000,
+    "size": 4332234,
+    "apkName": "SmartKeyboard_v1.1.apk",
+    "hash": "e3377bd8f8fd91bf447be2a073489e3fbd82f73222fba5c7604d2c8a3a9e63bd",
+    "hashType": "sha256",
+    "sig": "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9",
+    "minSdkVersion": 26,
+    "targetSdkVersion": 34
    }
   ]
  }
