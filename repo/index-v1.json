@@ -250,21 +250,21 @@
    "packageName": "com.mandy.phoneagent",
    "name": "Phone Agent",
    "summary": "AI agent that controls your phone",
-   "description": "Full Android AI agent like zerotap/Sova. Voice or text a task and it reads the screen and performs actions itself. v4: full coding (build apps in builders/editors/websites) + memory (knows your name, learns facts). English UI, done popup, can ask questions mid-task. Floating STOP button. No root.",
+   "description": "Full Android AI agent like zerotap/Sova. Voice or text a task and it reads the screen and performs actions itself. v4.1: long tasks (200 steps, pause + continue), full coding (build apps in builders/editors/websites), memory (knows your name, learns facts). English UI, done popup, asks questions mid-task. Floating STOP button. No root.",
    "authorName": "Adrian Van der Berg",
    "categories": [
     "System"
    ],
    "license": "Proprietary",
    "added": "1790253577",
-   "lastUpdated": "1790265502",
+   "lastUpdated": "1790266036",
    "webSite": "https://github.com/avanderberg48-collab/fdroid-repo",
    "sourceCode": "https://github.com/avanderberg48-collab/AccessiChat-WebApp-APK",
    "versions": [
     {
-     "versionName": "4.0",
-     "versionCode": 4,
-     "added": 1790265502
+     "versionName": "4.1",
+     "versionCode": 5,
+     "added": 1790266036
     }
    ]
   }
@@ -388,12 +388,12 @@
   ],
   "com.mandy.phoneagent": [
    {
-    "versionCode": 4,
-    "versionName": "4.0",
-    "added": 1790265502000,
+    "versionCode": 5,
+    "versionName": "4.1",
+    "added": 1790266036000,
     "size": 37538,
-    "apkName": "PhoneAgent_v4_signed.apk",
-    "hash": "18e5ae1375abbf461efc819e1a416b26477396c75ea4d3c3dc40130537b1fb88",
+    "apkName": "PhoneAgent_v4.1_signed.apk",
+    "hash": "e4843600622c485ac3d7173695d0e3fa7d0caec9db65b0ab4f4e5275095e7ec4",
     "hashType": "sha256",
     "sig": "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9",
     "minSdkVersion": 26,
