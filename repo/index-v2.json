@@ -468,7 +468,7 @@
     "categories": [
      "System"
     ],
-    "lastUpdated": 1790253560,
+    "lastUpdated": 1790256179,
     "license": "Proprietary",
     "sourceCode": "https://github.com/avanderberg48-collab/AccessiChat-WebApp-APK",
     "name": {
@@ -478,22 +478,22 @@
      "en-US": "AI agent that controls your phone"
     },
     "description": {
-     "en-US": "Foon Agent v1: a full Android AI agent like zerotap/Sova. Tell it a task by voice or text and it reads the screen via the accessibility service and performs the actions itself: taps, types, swipes, opens apps, back and home. Speaks every step aloud in Afrikaans. Floating STOP button, stop action in the notification, and full TalkBack support. No root, no ADB. Works on Android 12 (Nokia C12)."
+     "en-US": "Foon Agent v2: a full Android AI agent like zerotap/Sova. Tell it a task by voice or text and it reads the screen via the accessibility service and performs the actions itself: taps, types, swipes, opens apps, back and home. May type passwords in login forms. NEW: choose the AI provider brain (Groq Qwen 3.8 default, Groq GPT-OSS 120B/20B, or Gemini 3 Flash; falls back to the working default automatically). Speaks every step aloud in Afrikaans. Floating STOP button. No root, no ADB. Works on Android 12 (Nokia C12)."
     },
     "authorName": "Adrian Van der Berg",
     "authorWebSite": "https://github.com/avanderberg48-collab"
    },
    "versions": {
-    "1": {
-     "added": 1790253560,
-     "filesize": 29346,
-     "file": "PhoneAgent_v1_signed.apk",
-     "srcname": "PhoneAgent_v1_signed.apk",
-     "versionCode": 1,
-     "versionName": "1.0",
+    "2": {
+     "added": 1790256179,
+     "filesize": 33442,
+     "file": "PhoneAgent_v2_signed.apk",
+     "srcname": "PhoneAgent_v2_signed.apk",
+     "versionCode": 2,
+     "versionName": "2.0",
      "minSdkVersion": 26,
      "targetSdkVersion": 34,
-     "hash": "9809cb16c3d25f0b8b99a86352bd17cd0fb14dc1a1500782e47fdd14b76654e7",
+     "hash": "75eafb29de2527850790a74393acd60255234891c0ead8a6be3fabc53d698692",
      "hashType": "sha256",
      "signer": "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
     }
