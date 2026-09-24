@@ -468,7 +468,7 @@
     "categories": [
      "System"
     ],
-    "lastUpdated": 1790260849,
+    "lastUpdated": 1790265502,
     "license": "Proprietary",
     "sourceCode": "https://github.com/avanderberg48-collab/AccessiChat-WebApp-APK",
     "name": {
@@ -478,22 +478,22 @@
      "en-US": "AI agent that controls your phone"
     },
     "description": {
-     "en-US": "Phone Agent v3: a full Android AI agent like zerotap/Sova. Tell it a task by voice or text and it reads the screen via the accessibility service and performs the actions itself: taps, types, swipes, opens apps, back and home. May type passwords in login forms. Choose the AI provider brain (Groq Qwen 3.8 default, Groq GPT-OSS 120B/20B, or Gemini 3 Flash; automatic fallback). Whole app in ENGLISH, screen-reader friendly. NEW: pops up with the result when a task is done, and can ask you a question mid-task with a text box for your answer. Floating STOP button. No root, no ADB. Works on Android 12 (Nokia C12)."
+     "en-US": "Phone Agent v4: a full Android AI agent like zerotap/Sova. Tell it a task by voice or text and it reads the screen and performs the actions itself. NEW: full coding \u2014 build Android apps and write complete code inside app builders, code editors and coding websites (paste action for up to 3000 chars, append typing for building code chunk by chunk). NEW: memory \u2014 set your name and about-you info, the agent greets you by name, learns facts during tasks and remembers them next time; view and clear everything it remembers. May type passwords in login forms. Choose the AI provider brain (Groq Qwen 3.8 default, GPT-OSS 120B/20B, or Gemini 3 Flash; automatic fallback). English UI, pops up when a task is done, can ask questions mid-task. Floating STOP button. No root. Works on Android 12 (Nokia C12)."
     },
     "authorName": "Adrian Van der Berg",
     "authorWebSite": "https://github.com/avanderberg48-collab"
    },
    "versions": {
-    "3": {
-     "added": 1790260849,
-     "filesize": 33442,
-     "file": "PhoneAgent_v3_signed.apk",
-     "srcname": "PhoneAgent_v3_signed.apk",
-     "versionCode": 3,
-     "versionName": "3.0",
+    "4": {
+     "added": 1790265502,
+     "filesize": 37538,
+     "file": "PhoneAgent_v4_signed.apk",
+     "srcname": "PhoneAgent_v4_signed.apk",
+     "versionCode": 4,
+     "versionName": "4.0",
      "minSdkVersion": 26,
      "targetSdkVersion": 34,
-     "hash": "f1a5afba3a49929ec9cacd61c1b2716bed9666d60327bdeb0bf411cbcc9ce66f",
+     "hash": "18e5ae1375abbf461efc819e1a416b26477396c75ea4d3c3dc40130537b1fb88",
      "hashType": "sha256",
      "signer": "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
     }
