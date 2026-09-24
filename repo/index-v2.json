@@ -461,6 +461,43 @@
      "signer": "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
     }
    }
+  },
+  "com.mandy.phoneagent": {
+   "metadata": {
+    "added": 1790253560,
+    "categories": [
+     "System"
+    ],
+    "lastUpdated": 1790253560,
+    "license": "Proprietary",
+    "sourceCode": "https://github.com/avanderberg48-collab/AccessiChat-WebApp-APK",
+    "name": {
+     "en-US": "Foon Agent"
+    },
+    "summary": {
+     "en-US": "AI agent that controls your phone"
+    },
+    "description": {
+     "en-US": "Foon Agent v1: a full Android AI agent like zerotap/Sova. Tell it a task by voice or text and it reads the screen via the accessibility service and performs the actions itself: taps, types, swipes, opens apps, back and home. Speaks every step aloud in Afrikaans. Floating STOP button, stop action in the notification, and full TalkBack support. No root, no ADB. Works on Android 12 (Nokia C12)."
+    },
+    "authorName": "Adrian Van der Berg",
+    "authorWebSite": "https://github.com/avanderberg48-collab"
+   },
+   "versions": {
+    "1": {
+     "added": 1790253560,
+     "filesize": 29346,
+     "file": "PhoneAgent_v1_signed.apk",
+     "srcname": "PhoneAgent_v1_signed.apk",
+     "versionCode": 1,
+     "versionName": "1.0",
+     "minSdkVersion": 26,
+     "targetSdkVersion": 34,
+     "hash": "9809cb16c3d25f0b8b99a86352bd17cd0fb14dc1a1500782e47fdd14b76654e7",
+     "hashType": "sha256",
+     "signer": "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
+    }
+   }
   }
  }
 }
