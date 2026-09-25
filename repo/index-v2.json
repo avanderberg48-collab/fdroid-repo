@@ -468,7 +468,7 @@
     "categories": [
      "System"
     ],
-    "lastUpdated": 1790266036,
+    "lastUpdated": 1790314327,
     "license": "Proprietary",
     "sourceCode": "https://github.com/avanderberg48-collab/AccessiChat-WebApp-APK",
     "name": {
@@ -478,22 +478,22 @@
      "en-US": "AI agent that controls your phone"
     },
     "description": {
-     "en-US": "Phone Agent v4.1: a full Android AI agent like zerotap/Sova. Tell it a task by voice or text and it reads the screen and performs the actions itself. LONG TASKS: 200-step budget so searches and multi-app tasks run until finished; if the limit is reached it pauses and you can type continue to resume. Full coding (build apps in builders/editors/websites, paste up to 3000 chars, append typing). Memory: knows your name and learns facts; view and clear in settings. May type passwords in login forms. Choose the AI provider brain (Groq Qwen 3.8 default, GPT-OSS 120B/20B, or Gemini 3 Flash; automatic fallback). English UI, pops up when a task is done, asks questions mid-task. Floating STOP button. No root. Works on Android 12 (Nokia C12)."
+     "en-US": "Phone Agent v4.2: a full Android AI agent like zerotap/Sova. Tell it a task by voice or text and it reads the screen and performs the actions itself. RELIABILITY UPDATE: no more backend errors (waits patiently when the free AI is busy), scroll fix with stuck detection (changes strategy if the screen does not change), paced for long tasks. 200-step budget with pause and continue. Full coding (build apps in builders/editors/websites, paste up to 3000 chars, append typing). Memory: knows your name and learns facts; view and clear in settings. May type passwords in login forms. Choose the AI provider brain (Groq Qwen 3.8 default, GPT-OSS 120B/20B, or Gemini 3 Flash; automatic fallback). English UI, pops up when a task is done, asks questions mid-task. Floating STOP button. No root. Works on Android 12 (Nokia C12)."
     },
     "authorName": "Adrian Van der Berg",
     "authorWebSite": "https://github.com/avanderberg48-collab"
    },
    "versions": {
-    "5": {
-     "added": 1790266036,
+    "6": {
+     "added": 1790314327,
      "filesize": 37538,
-     "file": "PhoneAgent_v4.1_signed.apk",
-     "srcname": "PhoneAgent_v4.1_signed.apk",
-     "versionCode": 5,
-     "versionName": "4.1",
+     "file": "PhoneAgent_v4.2_signed.apk",
+     "srcname": "PhoneAgent_v4.2_signed.apk",
+     "versionCode": 6,
+     "versionName": "4.2",
      "minSdkVersion": 26,
      "targetSdkVersion": 34,
-     "hash": "e4843600622c485ac3d7173695d0e3fa7d0caec9db65b0ab4f4e5275095e7ec4",
+     "hash": "7a786285651302d76145363c0e6c678235bf1d90ec6793204f2755de20600620",
      "hashType": "sha256",
      "signer": "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
     }
