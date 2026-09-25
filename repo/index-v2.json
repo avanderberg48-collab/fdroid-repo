@@ -498,6 +498,45 @@
      "signer": "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
     }
    }
+  },
+  "com.opendroid.aiagent": {
+   "metadata": {
+    "name": {
+     "en-US": "OpenDroid"
+    },
+    "summary": {
+     "en-US": "Autonomous AI agent that controls your phone for you"
+    },
+    "description": {
+     "en-US": "OpenDroid v1.0.7: the open-source autonomous AI agent for Android. Tell your phone in plain language what to do and it does it: opens apps, sends WhatsApp messages and SMS, calls contacts, sets alarms and timers, controls brightness, WiFi, Bluetooth, flashlight, reads the screen, and runs multi-step routines on its own. On-device, accessibility-driven. 12 AI providers built in including Groq (free) and Gemini (free tier), plus Ollama for fully offline use. Apache 2.0 open source, 1.1k stars on GitHub. English UI. Works on Android 8+, no root. Setup: grant Accessibility and Notification access, add your AI key in Settings (Groq recommended)."
+    },
+    "icon": {
+     "en-US": {
+      "name": "opendroid-icon.png",
+      "sha256": "abbf2be1decde22fe5608ad1192eded9e42685d020fbc25752148fd91c5f18e4"
+     }
+    },
+    "added": 1790347440000,
+    "lastUpdated": 1790347440,
+    "categories": [
+     "connectivity"
+    ]
+   },
+   "versions": {
+    "8": {
+     "added": 1790347440,
+     "filesize": 57325914,
+     "file": "OpenDroid_v1.0.7_signed.apk",
+     "srcname": "OpenDroid_v1.0.7_signed.apk",
+     "versionCode": 8,
+     "versionName": "1.0.7",
+     "minSdkVersion": 26,
+     "targetSdkVersion": 36,
+     "hash": "4d0571443d1d16d278794894f6c048d04f9ed179d101003e9f2dd347052fea20",
+     "hashType": "sha256",
+     "signer": "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
+    }
+   }
   }
  }
 }
