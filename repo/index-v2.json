@@ -508,7 +508,7 @@
      "en-US": "Autonomous AI agent that controls your phone for you"
     },
     "description": {
-     "en-US": "OpenDroid v1.0.7: the open-source autonomous AI agent for Android. Tell your phone in plain language what to do and it does it: opens apps, sends WhatsApp messages and SMS, calls contacts, sets alarms and timers, controls brightness, WiFi, Bluetooth, flashlight, reads the screen, and runs multi-step routines on its own. On-device, accessibility-driven. 12 AI providers built in including Groq (free) and Gemini (free tier), plus Ollama for fully offline use. Apache 2.0 open source, 1.1k stars on GitHub. English UI. Works on Android 8+, no root. Setup: grant Accessibility and Notification access, add your AI key in Settings (Groq recommended)."
+     "en-US": "OpenDroid v1.0.8 Mandy Edition: the open-source autonomous AI agent for Android, works out of the box. NO API key or setup needed: the Groq provider runs through Mandy server which holds the key. Provider, key and fast model (gpt-oss-20b, same as Phone Agent) are preselected on first launch. Tell your phone in plain language what to do and it does it: opens apps, sends WhatsApp messages and SMS, calls contacts, sets alarms and timers, controls brightness, WiFi, Bluetooth, flashlight, reads the screen, and runs multi-step routines on its own. Apache 2.0 open source. English UI. Works on Android 8+, no root. After install just grant Accessibility and Notification access."
     },
     "icon": {
      "en-US": {
@@ -517,22 +517,22 @@
      }
     },
     "added": 1790347440000,
-    "lastUpdated": 1790347440,
+    "lastUpdated": 1790356348,
     "categories": [
      "connectivity"
     ]
    },
    "versions": {
-    "8": {
-     "added": 1790347440,
-     "filesize": 57325914,
-     "file": "OpenDroid_v1.0.7_signed.apk",
-     "srcname": "OpenDroid_v1.0.7_signed.apk",
-     "versionCode": 8,
-     "versionName": "1.0.7",
+    "9": {
+     "added": 1790356348,
+     "filesize": 57342298,
+     "file": "OpenDroid_v1.0.8_signed.apk",
+     "srcname": "OpenDroid_v1.0.8_signed.apk",
+     "versionCode": 9,
+     "versionName": "1.0.8",
      "minSdkVersion": 26,
      "targetSdkVersion": 36,
-     "hash": "4d0571443d1d16d278794894f6c048d04f9ed179d101003e9f2dd347052fea20",
+     "hash": "ca20ce6c03ba3c17dbcc3aa7c6229c105ed15bea34040e48e96f8a2a2fb2edab",
      "hashType": "sha256",
      "signer": "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
     }

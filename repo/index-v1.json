@@ -272,15 +272,15 @@
    "packageName": "com.opendroid.aiagent",
    "name": "OpenDroid",
    "summary": "Autonomous AI agent that controls your phone for you",
-   "description": "OpenDroid: autonomous AI agent for Android. Plain-language phone control: apps, messages, calls, alarms, settings, multi-step routines. Works with free Groq AI. Open source.",
+   "description": "OpenDroid Mandy Edition: autonomous AI agent, works out of the box, NO API key needed. Plain-language phone control: apps, messages, calls, alarms, settings, routines.",
    "icon": "opendroid-icon.png",
    "added": "1790347440",
-   "lastUpdated": "1790347440",
+   "lastUpdated": "1790356348",
    "versions": [
     {
-     "versionName": "1.0.7",
-     "versionCode": 8,
-     "added": 1790347440
+     "versionName": "1.0.8",
+     "versionCode": 9,
+     "added": 1790356348
     }
    ]
   }
@@ -418,12 +418,12 @@
   ],
   "com.opendroid.aiagent": [
    {
-    "versionCode": 8,
-    "versionName": "1.0.7",
-    "added": 1790347440000,
-    "size": 57325914,
-    "apkName": "OpenDroid_v1.0.7_signed.apk",
-    "hash": "4d0571443d1d16d278794894f6c048d04f9ed179d101003e9f2dd347052fea20",
+    "versionCode": 9,
+    "versionName": "1.0.8",
+    "added": 1790356348000,
+    "size": 57342298,
+    "apkName": "OpenDroid_v1.0.8_signed.apk",
+    "hash": "ca20ce6c03ba3c17dbcc3aa7c6229c105ed15bea34040e48e96f8a2a2fb2edab",
     "hashType": "sha256",
     "sig": "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9",
     "minSdkVersion": 26,
