@@ -468,7 +468,7 @@
     "categories": [
      "System"
     ],
-    "lastUpdated": 1790320567,
+    "lastUpdated": 1790322657,
     "license": "Proprietary",
     "sourceCode": "https://github.com/avanderberg48-collab/AccessiChat-WebApp-APK",
     "name": {
@@ -478,22 +478,22 @@
      "en-US": "AI agent that controls your phone"
     },
     "description": {
-     "en-US": "Phone Agent v4.3: a full Android AI agent like zerotap/Sova. Tell it a task by voice or text and it reads the screen and performs the actions itself. NEW IN 4.3: the agent has its own web browser \u2014 it opens websites and Google searches by itself (open_url), reads page text automatically, can save bookmarks (bookmark_add) and download files to Downloads/PhoneAgent (download). The browser also works by hand: address bar with Google search, back, forward, reload, home, bookmarks, read page aloud, downloads list, file uploads. Reliability kept from 4.2: waits patiently when the free AI is busy (no backend errors), scroll stuck detection, paced for long tasks. 200-step budget with pause and continue. Full coding (build apps in builders/editors/websites, paste up to 3000 chars). Memory: knows your name and learns facts. May type passwords in login forms. Choose the AI provider brain (Groq Qwen 3.8 default, GPT-OSS 120B/20B, or Gemini 3 Flash; automatic fallback). English UI, done popup, asks questions mid-task. Floating STOP button. No root. Works on Android 12 (Nokia C12)."
+     "en-US": "Phone Agent v4.4 (browser crash fix): a full Android AI agent like zerotap/Sova. Tell it a task by voice or text and it reads the screen and performs the actions itself. It has its own web browser: it opens websites and Google searches by itself (open_url), reads page text automatically, can save bookmarks (bookmark_add) and download files to Downloads/PhoneAgent (download). The browser also works by hand: address bar with Google search, back, forward, reload, home, bookmarks, read page aloud, downloads list, file uploads. Reliability: waits patiently when the free AI is busy (no backend errors), scroll stuck detection, 200-step budget with pause and continue. Full coding (build apps in builders/editors/websites, paste up to 3000 chars). Memory: knows your name and learns facts. Choose the AI provider brain (Groq Qwen 3.8 default, GPT-OSS 120B/20B, or Gemini 3 Flash; automatic fallback). English UI, done popup, asks questions mid-task. Floating STOP button. No root. Works on Android 12 (Nokia C12)."
     },
     "authorName": "Adrian Van der Berg",
     "authorWebSite": "https://github.com/avanderberg48-collab"
    },
    "versions": {
-    "7": {
-     "added": 1790320567,
+    "8": {
+     "added": 1790322657,
      "filesize": 49882,
-     "file": "PhoneAgent_v4.3_signed.apk",
-     "srcname": "PhoneAgent_v4.3_signed.apk",
-     "versionCode": 7,
-     "versionName": "4.3",
+     "file": "PhoneAgent_v4.4_signed.apk",
+     "srcname": "PhoneAgent_v4.4_signed.apk",
+     "versionCode": 8,
+     "versionName": "4.4",
      "minSdkVersion": 26,
      "targetSdkVersion": 34,
-     "hash": "6b4fd99ef915c4349e3f2c48659f254720db4ff767d1a2b3767e545c009261cd",
+     "hash": "bd1148ddcd0446983ae8617dced401ba1840be1eba0c49ddae773c1e14be4c84",
      "hashType": "sha256",
      "signer": "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
     }
