@@ -2,7 +2,7 @@
  "repo": {
   "name": "Blind Community Apps",
   "description": "Accessible Android apps for blind users by Adrian Van der Berg",
-  "timestamp": "1789714673",
+  "timestamp": 1790429920,
   "address": "https://avanderberg48-collab.github.io/fdroid-repo/repo/"
  },
  "apps": [
@@ -250,21 +250,21 @@
    "packageName": "com.mandy.phoneagent",
    "name": "Phone Agent",
    "summary": "AI agent that controls your phone",
-   "description": "Full Android AI agent like zerotap/Sova. Voice or text a task and it reads the screen and performs actions itself. Own web browser (open_url, read page, bookmarks, downloads), v4.4 browser crash fix. 200-step budget with pause+continue, full coding, memory. English UI, done popup, floating STOP button. No root.",
+   "description": "Phone Agent v4.6 VISION: the AI can now actually SEE photos, images and videos on your screen. When a big image or video is visible, the Phone Agent takes a real screenshot, sends it to Mandy who views it with her browser and describes it, so the agent can act on the visual content. New look action: ask it to look at anything. Plus all v4.5 speed: fastest AI model, own web browser, 200-step tasks, coding, memory, provider picker, English UI, floating STOP button. No root. Android 12 (Nokia C12).",
    "authorName": "Adrian Van der Berg",
    "categories": [
     "System"
    ],
    "license": "Proprietary",
    "added": "1790253577",
-   "lastUpdated": "1790328224",
+   "lastUpdated": "1790429920",
    "webSite": "https://github.com/avanderberg48-collab/fdroid-repo",
    "sourceCode": "https://github.com/avanderberg48-collab/AccessiChat-WebApp-APK",
    "versions": [
     {
-     "versionName": "4.5",
-     "versionCode": 9,
-     "added": 1790328224
+     "versionName": "4.6",
+     "versionCode": 10,
+     "added": 1790429920
     }
    ]
   },

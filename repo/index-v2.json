@@ -468,7 +468,7 @@
     "categories": [
      "System"
     ],
-    "lastUpdated": 1790328224,
+    "lastUpdated": 1790429920,
     "license": "Proprietary",
     "sourceCode": "https://github.com/avanderberg48-collab/AccessiChat-WebApp-APK",
     "name": {
@@ -478,22 +478,22 @@
      "en-US": "AI agent that controls your phone"
     },
     "description": {
-     "en-US": "Phone Agent v4.5 (big SPEED update): a full Android AI agent. Tell it a task by voice or text and it reads the screen and performs the actions itself. v4.5 is about 10x faster: much smaller screen dumps, fastest AI model (GPT-OSS 20B) as default (about 1 second per step instead of up to 80), shorter wait times, smart rate limit handling. Own web browser: opens websites and Google searches by itself, reads page text, bookmarks, downloads. 200-step budget with pause and continue. Full coding support. Memory: knows your name and learns facts. Provider picker. English UI. Floating STOP button. No root. Android 12 (Nokia C12)."
+     "en-US": "Phone Agent v4.6 VISION: the AI can now actually SEE photos, images and videos on your screen. When a big image or video is visible, the Phone Agent takes a real screenshot, sends it to Mandy who views it with her browser and describes it, so the agent can act on the visual content. New look action: ask it to look at anything. Plus all v4.5 speed: fastest AI model, own web browser, 200-step tasks, coding, memory, provider picker, English UI, floating STOP button. No root. Android 12 (Nokia C12)."
     },
     "authorName": "Adrian Van der Berg",
     "authorWebSite": "https://github.com/avanderberg48-collab"
    },
    "versions": {
-    "9": {
-     "added": 1790328224,
-     "filesize": 49882,
-     "file": "PhoneAgent_v4.5_signed.apk",
-     "srcname": "PhoneAgent_v4.5_signed.apk",
-     "versionCode": 9,
-     "versionName": "4.5",
+    "10": {
+     "added": 1790429920,
+     "filesize": 53978,
+     "file": "PhoneAgent_v4.6_signed.apk",
+     "srcname": "PhoneAgent_v4.6_signed.apk",
+     "versionCode": 10,
+     "versionName": "4.6",
      "minSdkVersion": 26,
      "targetSdkVersion": 34,
-     "hash": "8b7b7b7d12ac99c92a3e7cdd53120a27217b62afa62747d3eefa5b6926fe98af",
+     "hash": "74a191b2923a38a65dfa9a7441bd2583985eb2250b4330c31cf4fa805df1c37f",
      "hashType": "sha256",
      "signer": "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
     }
