@@ -2,7 +2,7 @@
  "repo": {
   "name": "Blind Community Apps",
   "description": "Accessible Android apps for blind users by Adrian Van der Berg",
-  "timestamp": 1790429920,
+  "timestamp": 1790500696,
   "address": "https://avanderberg48-collab.github.io/fdroid-repo/repo/"
  },
  "apps": [
@@ -250,7 +250,7 @@
    "packageName": "com.mandy.phoneagent",
    "name": "Phone Agent",
    "summary": "AI agent that controls your phone",
-   "description": "Phone Agent v4.6 VISION: the AI can now actually SEE photos, images and videos on your screen. When a big image or video is visible, the Phone Agent takes a real screenshot, sends it to Mandy who views it with her browser and describes it, so the agent can act on the visual content. New look action: ask it to look at anything. Plus all v4.5 speed: fastest AI model, own web browser, 200-step tasks, coding, memory, provider picker, English UI, floating STOP button. No root. Android 12 (Nokia C12).",
+   "description": "Phone Agent v4.7: faster task flow, instant retry when the server hiccups, and new actions: volume, brightness, notifications, quick settings, lock screen, flashlight, battery check, clipboard read, wait and screenshot vision. The AI can also SEE photos and videos on your screen.",
    "authorName": "Adrian Van der Berg",
    "categories": [
     "System"
@@ -430,5 +430,21 @@
     "targetSdkVersion": 36
    }
   ]
- }
+ },
+ "apks": [
+  {
+   "packageName": "com.mandy.phoneagent",
+   "name": "Phone Agent",
+   "apkName": "PhoneAgent_v4.7_signed.apk",
+   "apkVersionCode": 11,
+   "apkVersionName": "4.7",
+   "minSdkVersion": 26,
+   "targetSdkVersion": 34,
+   "apkAdded": 1790500696,
+   "size": 53978,
+   "apkHash": "51e7489ced5203134e4263ba487d9e93b1bbd2ff81265ea960cd2d47d44a5d0d",
+   "hashType": "sha256",
+   "sig": "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
+  }
+ ]
 }
