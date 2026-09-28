@@ -266,7 +266,12 @@
      "versionCode": 10,
      "added": 1790429920
     }
-   ]
+   ],
+   "versionCode": 12,
+   "versionName": "4.8",
+   "apkName": "PhoneAgent_v4.8_signed.apk",
+   "hash": "dd9ed7ae4c41dbfc09e2dee9d856f6bd7c53aa8571583e6f4619339e5b6471c0",
+   "size": 58074
   },
   {
    "packageName": "com.opendroid.aiagent",

@@ -463,6 +463,27 @@
    }
   },
   "com.mandy.phoneagent": {
+   "versions": {
+    "12": {
+     "added": 1790500696,
+     "file": {
+      "name": "PhoneAgent_v4.8_signed.apk",
+      "sha256": "dd9ed7ae4c41dbfc09e2dee9d856f6bd7c53aa8571583e6f4619339e5b6471c0",
+      "size": 58074
+     },
+     "filesize": 53978,
+     "hash": "51e7489ced5203134e4263ba487d9e93b1bbd2ff81265ea960cd2d47d44a5d0d",
+     "hashType": "sha256",
+     "minSdkVersion": 26,
+     "signer": [
+      "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
+     ],
+     "srcname": "PhoneAgent_v4.7_signed.apk",
+     "targetSdkVersion": 34,
+     "versionCode": 12,
+     "versionName": "4.8"
+    }
+   },
    "metadata": {
     "added": 1790253560,
     "categories": [
@@ -480,21 +501,6 @@
     },
     "authorName": "Adrian Van der Berg",
     "authorWebSite": "https://github.com/avanderberg48-collab"
-   },
-   "versions": {
-    "11": {
-     "added": 1790500696,
-     "file": "PhoneAgent_v4.7_signed.apk",
-     "filesize": 53978,
-     "hash": "51e7489ced5203134e4263ba487d9e93b1bbd2ff81265ea960cd2d47d44a5d0d",
-     "hashType": "sha256",
-     "minSdkVersion": 26,
-     "signer": "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9",
-     "srcname": "PhoneAgent_v4.7_signed.apk",
-     "targetSdkVersion": 34,
-     "versionCode": 11,
-     "versionName": "4.7"
-    }
    }
   },
   "com.opendroid.aiagent": {
