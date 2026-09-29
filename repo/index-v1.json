@@ -2,7 +2,7 @@
  "repo": {
   "name": "Blind Community Apps",
   "description": "Accessible Android apps for blind users by Adrian Van der Berg",
-  "timestamp": 1790500696,
+  "timestamp": 1790668785,
   "address": "https://avanderberg48-collab.github.io/fdroid-repo/repo/"
  },
  "apps": [
@@ -288,6 +288,17 @@
      "added": 1790356348
     }
    ]
+  },
+  {
+   "packageName": "com.mandy.pdfcreator",
+   "name": "PDF Creator",
+   "summary": "Create PDF documents and e-books, fully accessible",
+   "description": "Make any PDF document or e-book on your phone: page sizes, voice typing, read-aloud, export and share.",
+   "authorName": "Adrian Van der Berg",
+   "categories": [
+    "Writing"
+   ],
+   "license": "Proprietary"
   }
  ],
  "packages": {
@@ -389,6 +400,32 @@
     "sha256": "cf0643acfa7b006727435fc2d7be0ae9f144faa38eb780c6e8e72dc5d7e8eba7",
     "minSdkVersion": "21",
     "hash": "ec074e5af829db104521750d1398130a4af262e10609480199a47fa65ff2d430"
+   }
+  ],
+  "com.mandy.pdfcreator": [
+   {
+    "versionName": "1.0",
+    "versionCode": 1,
+    "minSdkVersion": "26",
+    "apkName": "PDFCreator_v1_signed.apk",
+    "size": 37594,
+    "sha256": "2266778094a31297fc9cd0590c31ffd754ff9feadfa0b9bac3059ed892d58a81",
+    "sig": "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9",
+    "minSdkVersionCode": 26,
+    "targetSdkVersionCode": 34
+   }
+  ],
+  "com.mandy.phoneagent": [
+   {
+    "versionName": "4.8",
+    "versionCode": 12,
+    "minSdkVersion": "26",
+    "apkName": "PhoneAgent_v4.8_signed.apk",
+    "size": 58074,
+    "sha256": "dd9ed7ae4c41dbfc09e2dee9d856f6bd7c53aa8571583e6f4619339e5b6471c0",
+    "sig": "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9",
+    "minSdkVersionCode": 26,
+    "targetSdkVersionCode": 34
    }
   ]
  },

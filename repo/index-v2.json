@@ -541,6 +541,44 @@
      "signer": "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
     }
    }
+  },
+  "com.mandy.pdfcreator": {
+   "versions": {
+    "1": {
+     "added": 1790668785,
+     "file": {
+      "name": "PDFCreator_v1_signed.apk",
+      "sha256": "2266778094a31297fc9cd0590c31ffd754ff9feadfa0b9bac3059ed892d58a81",
+      "size": 37594
+     },
+     "filesize": 37594,
+     "hash": "2266778094a31297fc9cd0590c31ffd754ff9feadfa0b9bac3059ed892d58a81",
+     "hashType": "sha256",
+     "minSdkVersion": 26,
+     "targetSdkVersion": 34,
+     "versionCode": 1,
+     "versionName": "1.0",
+     "signer": [
+      "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
+     ]
+    }
+   },
+   "metadata": {
+    "added": 1790668785,
+    "categories": [
+     "Writing"
+    ],
+    "lastUpdated": 1790668785,
+    "license": "Proprietary",
+    "sourceCode": "https://github.com/avanderberg48-collab/AccessiChat-WebApp-APK",
+    "name": {
+     "en-US": "PDF Creator"
+    },
+    "summary": "Create PDF documents and e-books, fully accessible",
+    "description": {
+     "en-US": "PDF Creator: make any PDF document or e-book directly on your phone. Choose page size (A4, A5, Letter, Legal, or custom), margins and font size. Type or voice-type your text, add image pages, import long text as an auto-paginated e-book, read everything aloud with speech, and export, open or share the finished PDF. Built for blind users: every action speaks."
+    }
+   }
   }
  }
 }
