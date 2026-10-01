@@ -370,9 +370,9 @@
      "System"
     ],
     "description": {
-     "en-US": "Mandy Keyboard: a big, talking keyboard for blind users. Voice typing powered by Mandy's AI. NEW in v2: EN-to-AF translate mode - speak English and it types Afrikaans. Long voice messages: no time limit, records in 20-second parts and transcribes live, no cut-outs or failures. Language cycle: Auto, English, Afrikaans, EN-to-AF translate. Type by touch with full QWERTY, capitals and numbers. Clipboard with copy, cut, paste and select all. Every key speaks out loud when touched."
+     "en-US": "Mandy Keyboard: a big, talking keyboard for blind users. Voice typing powered by Mandy's AI. EN-to-AF translate mode: speak English and it types Afrikaans. Long voice messages: no time limit, records in 20-second parts and transcribes live. Language cycle: Auto, English, Afrikaans, EN-to-AF translate. Type by touch with full QWERTY, capitals and numbers. Clipboard with copy, cut, paste and select all. Every key speaks out loud when touched."
     },
-    "lastUpdated": 1790848538,
+    "lastUpdated": 1790850798,
     "license": "Proprietary",
     "name": {
      "en-US": "Mandy Keyboard"
@@ -399,23 +399,23 @@
      "versionCode": 1,
      "versionName": "1.0"
     },
-    "2": {
-     "added": 1790848538,
+    "3": {
+     "added": 1790850798,
      "file": {
-      "name": "MandyKeyboard_v2_signed.apk",
-      "sha256": "1a9f7a83b869b09bd8fb46670863d5b5482d744a36b0405b822b24352142c73d",
+      "name": "MandyKeyboard_v2.1_signed.apk",
+      "sha256": "55b28955f4813b50a70b47c4530fed14870b57d6d764c131f192c0d0c297dbdd",
       "size": 29290
      },
      "filesize": 29290,
-     "hash": "1a9f7a83b869b09bd8fb46670863d5b5482d744a36b0405b822b24352142c73d",
+     "hash": "55b28955f4813b50a70b47c4530fed14870b57d6d764c131f192c0d0c297dbdd",
      "hashType": "sha256",
      "minSdkVersion": 21,
      "signer": [
       "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
      ],
      "targetSdkVersion": 34,
-     "versionCode": 2,
-     "versionName": "2.0"
+     "versionCode": 3,
+     "versionName": "2.1"
     }
    }
   },
