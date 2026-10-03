@@ -655,6 +655,46 @@
      "versionName": "1.0.8"
     }
    }
+  },
+  "com.mandy.nvdamobile": {
+   "metadata": {
+    "added": 1791022646,
+    "categories": [
+     "Accessibility"
+    ],
+    "description": {
+     "en-US": "NVDA Mobile is a full screen reader modelled on the NVDA screen reader for Windows, built for blind users. Explore by touch: drag your finger and everything speaks. Double-tap activates. Swipe right or down for the next item, left or up for the previous. Three-finger tap switches between object mode and text review mode: navigate by character, word and line like the NVDA review cursor. Two-finger swipe down starts say-all with auto scroll; two-finger swipe right continues from the current item. Two-finger double-tap opens the NVDA menu with reports: current object, window title, time, date, battery, clipboard, spell and spell with character descriptions. Quick navigation jumps between buttons, edit fields, checkboxes, links, images, text blocks and lists. Input help mode makes every gesture announce what it does. Speech modes: speech, beeps or off. Per-app sleep mode keeps the reader silent in apps that speak for themselves. Screen curtain turns the display black while speech keeps working. Speaks Afrikaans or English with adjustable rate, pitch and volume, haptic feedback and a floating NVDA menu button."
+    },
+    "lastUpdated": 1791022646,
+    "license": "Proprietary",
+    "name": {
+     "en-US": "NVDA Mobile"
+    },
+    "sourceCode": "https://github.com/avanderberg48-collab/AccessiChat-WebApp-APK",
+    "summary": {
+     "en-US": "NVDA-style screen reader: review cursor, say-all, quick navigation"
+    }
+   },
+   "versions": {
+    "1": {
+     "added": 1791022646,
+     "file": {
+      "name": "NVDAMobile_v1_signed.apk",
+      "sha256": "0f84e7f8e16a7220194f4bffb5d0a23333b2b9c1d9b96b962666c2ceb535010a",
+      "size": 37426
+     },
+     "filesize": 37426,
+     "hash": "0f84e7f8e16a7220194f4bffb5d0a23333b2b9c1d9b96b962666c2ceb535010a",
+     "hashType": "sha256",
+     "minSdkVersion": 23,
+     "signer": [
+      "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
+     ],
+     "targetSdkVersion": 34,
+     "versionCode": 1,
+     "versionName": "1.0"
+    }
+   }
   }
  },
  "repo": {
