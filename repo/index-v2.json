@@ -1,1 +1,795 @@
-{"packages":{"com.mandy.accessichat":{"metadata":{"added":1788280565,"authorName":"Adrian Van der Berg","authorWebSite":"https://github.com/avanderberg48-collab","categories":["Communication","Games"],"description":{"en-US":"Accessible messenger with 88 voice games, radio, voice calling, AI assistant."},"lastUpdated":1788280565,"license":"Proprietary","name":{"en-US":"AccessiChat"},"sourceCode":"https://github.com/avanderberg48-collab/fdroid-repo","summary":{"en-US":"Accessible messenger with games"}},"versions":{"17a1398e6a0be4cbcf5e0989fb0eafe0bb0b3cee4942692d47611ad5f3dbdcc7":{"added":1788280565,"file":{"name":"/AccessiChat_v17.apk","sha256":"17a1398e6a0be4cbcf5e0989fb0eafe0bb0b3cee4942692d47611ad5f3dbdcc7","size":3208842},"manifest":{"signer":{"sha256":["5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"]},"usesSdk":{"minSdkVersion":26,"targetSdkVersion":33},"versionCode":17,"versionName":"17.0"}}}},"com.mandy.adrianbrowser":{"metadata":{"added":1788280565,"authorName":"Adrian Van der Berg","authorWebSite":"https://github.com/avanderberg48-collab","categories":["Internet"],"description":{"en-US":"Accessible web browser with bookmarks, history, TTS read-aloud."},"lastUpdated":1788280565,"license":"Proprietary","name":{"en-US":"Adrian Browser"},"sourceCode":"https://github.com/avanderberg48-collab/fdroid-repo","summary":{"en-US":"Accessible web browser"}},"versions":{"9daa3aa832f86f6bd43a110cf239edc2c07de895cbf896358525a00d29286907":{"added":1788280565,"file":{"name":"/AdrianBrowser_v2.apk","sha256":"9daa3aa832f86f6bd43a110cf239edc2c07de895cbf896358525a00d29286907","size":5960100},"manifest":{"signer":{"sha256":["5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"]},"usesSdk":{"minSdkVersion":21,"targetSdkVersion":33},"versionCode":1,"versionName":"1.0"}}}},"com.mandy.blindkeyboard":{"metadata":{"added":1789641021,"authorName":"Adrian Van der Berg","authorWebSite":"https://github.com/avanderberg48-collab","categories":["System"],"description":{"en-US":"Accessible QWERTY keyboard with big keys, spoken key feedback and haptics. AI voice typing (Whisper large-v3) in English and Afrikaans with expert-level accuracy: triple-pass AI consensus, professional proofreading and verification. Voice notes with permanent links, clipboard tools, ENTER key, word suggestions. Built for TalkBack users."},"lastUpdated":1789714673,"license":"Proprietary","name":{"en-US":"Blind AI Keyboard"},"sourceCode":"https://github.com/avanderberg48-collab/AccessiChat-WebApp-APK","summary":{"en-US":"AI voice-typing keyboard for blind users"}},"versions":{"3c88107dabe39fad4212d140202ebcc40c98fde55c24112a1a1f23c34a87700e":{"added":1789714673,"file":{"name":"/blindkeyboard_ai_v16.apk","sha256":"ec074e5af829db104521750d1398130a4af262e10609480199a47fa65ff2d430","size":4419475},"manifest":{"signer":{"sha256":["5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"]},"usesSdk":{"minSdkVersion":21,"targetSdkVersion":34},"versionCode":16,"versionName":"1.6"},"versionCode":16}}},"com.mandy.cloudphone":{"metadata":{"added":1788280565,"authorName":"Adrian Van der Berg","authorWebSite":"https://github.com/avanderberg48-collab","categories":["Communication"],"description":{"en-US":"Cloud phone with calling, messaging, contacts. Native Android version."},"lastUpdated":1788280565,"license":"Proprietary","name":{"en-US":"CloudPhone"},"sourceCode":"https://github.com/avanderberg48-collab/fdroid-repo","summary":{"en-US":"Cloud phone app"}},"versions":{"872144a27e90fd3b586e65952af323ca39ced10264fb6ce21b11c83f1860eb15":{"added":1788280565,"file":{"name":"/CloudPhone_v5.apk","sha256":"872144a27e90fd3b586e65952af323ca39ced10264fb6ce21b11c83f1860eb15","size":5597186},"manifest":{"signer":{"sha256":["5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"]},"usesSdk":{"minSdkVersion":24,"targetSdkVersion":33},"versionCode":1,"versionName":"1.0"}}}},"com.mandy.connecti":{"metadata":{"added":1788280565,"authorName":"Adrian Van der Berg","authorWebSite":"https://github.com/avanderberg48-collab","categories":["Communication"],"description":{"en-US":"Messenger with text, photo, voice messages, groups, read receipts."},"lastUpdated":1788280565,"license":"Proprietary","name":{"en-US":"Connecti"},"sourceCode":"https://github.com/avanderberg48-collab/fdroid-repo","summary":{"en-US":"Accessible messenger"}},"versions":{"e49fea6eca242eac95ea2572a02b7226378e5c2d533dadf0835220e44edf8b4a":{"added":1788280565,"file":{"name":"/Connecti_v4.apk","sha256":"e49fea6eca242eac95ea2572a02b7226378e5c2d533dadf0835220e44edf8b4a","size":5613570},"manifest":{"signer":{"sha256":["5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"]},"usesSdk":{"minSdkVersion":24,"targetSdkVersion":33},"versionCode":1,"versionName":"1.0"}}}},"com.mandy.ignite":{"metadata":{"added":1788280565,"authorName":"Adrian Van der Berg","authorWebSite":"https://github.com/avanderberg48-collab","categories":["Dating"],"description":{"en-US":"South African dating app with profiles, matching, chat, voice notes."},"lastUpdated":1788280565,"license":"Proprietary","name":{"en-US":"Ignite Dating"},"sourceCode":"https://github.com/avanderberg48-collab/fdroid-repo","summary":{"en-US":"Accessible dating app"}},"versions":{"c2a3d70f416580a3e716862b8410a8521ec50be6cc3ec30440e69e4a73cc81da":{"added":1788280565,"file":{"name":"/Ignite_v3.apk","sha256":"c2a3d70f416580a3e716862b8410a8521ec50be6cc3ec30440e69e4a73cc81da","size":5602536},"manifest":{"signer":{"sha256":["5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"]},"usesSdk":{"minSdkVersion":24,"targetSdkVersion":33},"versionCode":1,"versionName":"1.0"}}}},"com.mandy.mandyagent":{"metadata":{"added":1788280565,"authorName":"Adrian Van der Berg","authorWebSite":"https://github.com/avanderberg48-collab","categories":["AI"],"description":{"en-US":"Chat directly with Mandy AI. Voice notes, file attachments, AI voice calls."},"lastUpdated":1788280565,"license":"Proprietary","name":{"en-US":"Ask Mandy"},"sourceCode":"https://github.com/avanderberg48-collab/fdroid-repo","summary":{"en-US":"Chat with Mandy AI"}},"versions":{"1e4fc376d96e3fa9c315c92f9c045922b74472ae58708732df3074b9e3c45cc8":{"added":1788280565,"file":{"name":"/AskMandy_v7.apk","sha256":"1e4fc376d96e3fa9c315c92f9c045922b74472ae58708732df3074b9e3c45cc8","size":5514593},"manifest":{"signer":{"sha256":["5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"]},"usesSdk":{"minSdkVersion":24,"targetSdkVersion":33},"versionCode":7,"versionName":"7.0"}}}},"com.mandy.mandyagent.offline":{"metadata":{"added":1788280565,"authorName":"Adrian Van der Berg","authorWebSite":"https://github.com/avanderberg48-collab","categories":["AI","System"],"description":{"en-US":"Offline AI assistant with phone control and training."},"lastUpdated":1788280565,"license":"Proprietary","name":{"en-US":"Mandy Agent Offline"},"sourceCode":"https://github.com/avanderberg48-collab/fdroid-repo","summary":{"en-US":"Offline AI assistant"}},"versions":{"0ab43c2301751cac6bd407fbc97060f00c6368f3b76580122fda8dea68166d8a":{"added":1788280565,"file":{"name":"/MandyOffline_v2.apk","sha256":"0ab43c2301751cac6bd407fbc97060f00c6368f3b76580122fda8dea68166d8a","size":3769974},"manifest":{"signer":{"sha256":["5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"]},"usesSdk":{"minSdkVersion":26,"targetSdkVersion":33},"versionCode":1,"versionName":"1.0"}}}},"com.mandy.mandykeyboard":{"metadata":{"added":1790698084,"categories":["System"],"description":{"en-US":"Mandy Keyboard: a big, talking keyboard for blind users. Voice typing powered by Mandy's AI. EN-to-AF translate mode: speak English and it types Afrikaans. Long voice messages: no time limit, records in 20-second parts and transcribes live. Language cycle: Auto, English, Afrikaans, EN-to-AF translate. Type by touch with full QWERTY, capitals and numbers. Clipboard with copy, cut, paste and select all. Every key speaks out loud when touched."},"lastUpdated":1790850798,"license":"Proprietary","name":{"en-US":"Mandy Keyboard"},"sourceCode":"https://github.com/avanderberg48-collab/AccessiChat-WebApp-APK","summary":"Accessible AI keyboard: voice typing, EN-to-AF translate, long messages"},"versions":{"1":{"added":1790698084,"file":{"name":"MandyKeyboard_v1_signed.apk","sha256":"6722df68a15ad3f860dcf635ea4459a771630accbc5393e86fb4f043d9c7e974","size":26608},"filesize":26608,"hash":"6722df68a15ad3f860dcf635ea4459a771630accbc5393e86fb4f043d9c7e974","hashType":"sha256","minSdkVersion":21,"signer":["5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"],"targetSdkVersion":34,"versionCode":1,"versionName":"1.0"},"3":{"added":1790850798,"file":{"name":"MandyKeyboard_v2.1_signed.apk","sha256":"55b28955f4813b50a70b47c4530fed14870b57d6d764c131f192c0d0c297dbdd","size":29290},"filesize":29290,"hash":"55b28955f4813b50a70b47c4530fed14870b57d6d764c131f192c0d0c297dbdd","hashType":"sha256","minSdkVersion":21,"signer":["5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"],"targetSdkVersion":34,"versionCode":3,"versionName":"2.1"}}},"com.mandy.mistralkeyboard":{"metadata":{"added":1791097884,"categories":["System"],"description":{"en-US":"Mandy Mistral Keyboard: a big, talking keyboard for blind users. AI voice typing powered 100 percent by Mistral AI: Voxtral voice recognition with an AI brain that writes beautiful Afrikaans or English. Language key: Auto, English only, Afrikaans only. Clipboard with select all, copy, cut and paste. Numbers and symbols mode. Enter sends, delete removes one letter, clear removes everything. Every key speaks out loud when touched."},"lastUpdated":1791097884,"license":"Proprietary","name":{"en-US":"Mandy Mistral Keyboard"},"sourceCode":"https://github.com/avanderberg48-collab/AccessiChat-WebApp-APK","summary":"Accessible AI voice typing keyboard powered by Mistral"},"versions":{"1":{"added":1791097884,"file":{"name":"MandyMistralKeyboard_v1_signed.apk","sha256":"c0e448a218e99e41e9ea083445ff1e920fd3d6cb8fbf6be33828da9f4336ec17","size":29290},"filesize":29290,"hash":"c0e448a218e99e41e9ea083445ff1e920fd3d6cb8fbf6be33828da9f4336ec17","hashType":"sha256","minSdkVersion":21,"signer":["5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"],"targetSdkVersion":34,"versionCode":1,"versionName":"1.0"}}},"com.mandy.nvdamobile":{"metadata":{"added":1791022646,"categories":["Accessibility"],"description":{"en-US":"NVDA Mobile is a full screen reader modelled on the NVDA screen reader for Windows, built for blind users. Explore by touch: drag your finger and everything speaks. Double-tap activates. Swipe right or down for the next item, left or up for the previous. Three-finger tap switches between object mode and text review mode: navigate by character, word and line like the NVDA review cursor. Two-finger swipe down starts say-all with auto scroll; two-finger swipe right continues from the current item. Two-finger double-tap opens the NVDA menu with reports: current object, window title, time, date, battery, clipboard, spell and spell with character descriptions. Quick navigation jumps between buttons, edit fields, checkboxes, links, images, text blocks and lists. Input help mode makes every gesture announce what it does. Speech modes: speech, beeps or off. Per-app sleep mode keeps the reader silent in apps that speak for themselves. Screen curtain turns the display black while speech keeps working. Speaks Afrikaans or English with adjustable rate, pitch and volume, haptic feedback and a floating NVDA menu button."},"lastUpdated":1791022646,"license":"Proprietary","name":{"en-US":"NVDA Mobile"},"sourceCode":"https://github.com/avanderberg48-collab/AccessiChat-WebApp-APK","summary":{"en-US":"NVDA-style screen reader: review cursor, say-all, quick navigation"}},"versions":{"1":{"added":1791022646,"file":{"name":"NVDAMobile_v1_signed.apk","sha256":"0f84e7f8e16a7220194f4bffb5d0a23333b2b9c1d9b96b962666c2ceb535010a","size":37426},"filesize":37426,"hash":"0f84e7f8e16a7220194f4bffb5d0a23333b2b9c1d9b96b962666c2ceb535010a","hashType":"sha256","minSdkVersion":23,"signer":["5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"],"targetSdkVersion":34,"versionCode":1,"versionName":"1.0"}}},"com.mandy.pdfcreator":{"metadata":{"added":1790668785,"categories":["Writing"],"description":{"en-US":"PDF Creator: make any PDF document or e-book directly on your phone. Choose page size (A4, A5, Letter, Legal, or custom), margins and font size. Type or voice-type your text, add image pages, import long text as an auto-paginated e-book, read everything aloud with speech, and export, open or share the finished PDF. Built for blind users: every action speaks."},"lastUpdated":1790668785,"license":"Proprietary","name":{"en-US":"PDF Creator"},"sourceCode":"https://github.com/avanderberg48-collab/AccessiChat-WebApp-APK","summary":"Create PDF documents and e-books, fully accessible"},"versions":{"1":{"added":1790668785,"file":{"name":"PDFCreator_v1_signed.apk","sha256":"2266778094a31297fc9cd0590c31ffd754ff9feadfa0b9bac3059ed892d58a81","size":37594},"filesize":37594,"hash":"2266778094a31297fc9cd0590c31ffd754ff9feadfa0b9bac3059ed892d58a81","hashType":"sha256","minSdkVersion":26,"signer":["5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"],"targetSdkVersion":34,"versionCode":1,"versionName":"1.0"}}},"com.mandy.phoneagent":{"metadata":{"added":1790253560,"authorName":"Adrian Van der Berg","authorWebSite":"https://github.com/avanderberg48-collab","categories":["System"],"description":{"en-US":"Phone Agent: your personal AI agent that controls the phone by voice. v5.4 Agent Apps: 60 built-in apps and 60 built-in games, all offline, spoken and TalkBack friendly. v5.5 Online Apps: 60 online apps in the built-in browser, including Facebook, Messenger, WhatsApp Web, Instagram, X, Telegram, TikTok, News24, Takealot, YouTube, Gmail and 49 more. v5.5 also adds File Manager, Music Player and Photo Gallery. Plus voice control of WhatsApp, YouTube downloads, document writing, app building and the Mandy App Store."},"lastUpdated":1791541342,"license":"Proprietary","name":{"en-US":"Phone Agent"},"sourceCode":"https://github.com/avanderberg48-collab/AccessiChat-WebApp-APK","summary":{"en-US":"AI phone agent: 63 offline apps, 60 games, 60 online apps"}},"versions":{"18":{"added":1791541342,"file":{"name":"PhoneAgent_v5.5_signed.apk","sha256":"0cbb758cd54324bbab26aca1b2157047f9c303c2184b567035597840086fd307","size":148186},"filesize":148186,"hash":"0cbb758cd54324bbab26aca1b2157047f9c303c2184b567035597840086fd307","hashType":"sha256","minSdkVersion":26,"signer":["5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"],"targetSdkVersion":34,"versionCode":18,"versionName":"5.5"}}},"com.mandy.shineplus":{"metadata":{"added":1790841563,"categories":["Accessibility"],"description":{"en-US":"Shine Plus is a complete screen reader for blind users, in the spirit of the classic Shine Plus. Explore by touch: drag your finger and everything speaks. Double-tap to activate. Swipe right or down for the next item, swipe left or up for the previous. Two-finger swipe down reads the whole screen, two-finger swipe up stops speech. Two-finger swipe right reads from the current item, two-finger swipe left spells the last words letter by letter. Speaks element types and checkbox states, announces new screens and notifications, auto-scrolls lists while reading. English and Afrikaans speech with adjustable rate and pitch, vibration feedback, a floating menu button and a spoken step by step tutorial."},"lastUpdated":1790841563,"license":"Proprietary","name":{"en-US":"Shine Plus"},"sourceCode":"https://github.com/avanderberg48-collab/AccessiChat-WebApp-APK","summary":"Full screen reader: explore by touch, swipe navigation, read all"},"versions":{"1":{"added":1790841563,"file":{"name":"ShinePlus_v1_signed.apk","sha256":"f9b8883316a8fcb03a52ab46e14b891047e966ba194f4da759003a07554f26c5","size":2399627},"filesize":2399627,"hash":"f9b8883316a8fcb03a52ab46e14b891047e966ba194f4da759003a07554f26c5","hashType":"sha256","minSdkVersion":24,"signer":["5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"],"targetSdkVersion":34,"versionCode":1,"versionName":"1.0"}}},"com.mandy.smartkeyboard":{"metadata":{"added":1790065838,"authorName":"Adrian Van der Berg","authorWebSite":"https://github.com/avanderberg48-collab","categories":["System"],"description":{"en-US":"Smart Keyboard v1.1: AI voice typing with dual-pass Whisper consensus and Gemini 3 Flash proofreading. Afrikaans and English, translate English to Afrikaans, clipboard, symbols, voice notes, word suggestions, and FOTO key: take a photo and the AI describes it aloud."},"lastUpdated":1790065838,"license":"Proprietary","name":{"en-US":"Smart Keyboard"},"sourceCode":"https://github.com/avanderberg48-collab/AccessiChat-WebApp-APK","summary":{"en-US":"AI keyboard with photo descriptions"}},"versions":{"2":{"added":1790065838,"file":"SmartKeyboard_v1.1.apk","filesize":4332234,"hash":"e3377bd8f8fd91bf447be2a073489e3fbd82f73222fba5c7604d2c8a3a9e63bd","hashType":"sha256","minSdkVersion":26,"signer":"5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9","srcname":"SmartKeyboard_v1.1.apk","targetSdkVersion":34,"versionCode":2,"versionName":"1.1"}}},"com.mandy.wavecast":{"metadata":{"added":1788280565,"authorName":"Adrian Van der Berg","authorWebSite":"https://github.com/avanderberg48-collab","categories":["Audio"],"description":{"en-US":"Internet radio broadcast studio with live broadcasting and scheduling."},"lastUpdated":1788280565,"license":"Proprietary","name":{"en-US":"WaveCast Studio"},"sourceCode":"https://github.com/avanderberg48-collab/fdroid-repo","summary":{"en-US":"Internet radio studio"}},"versions":{"a5a72236bb9a02acebcccd8e8a427bdde651ba450707bfbe2854e848b795eb6c":{"added":1788280565,"file":{"name":"/WaveCast_v3.apk","sha256":"a5a72236bb9a02acebcccd8e8a427bdde651ba450707bfbe2854e848b795eb6c","size":5576648},"manifest":{"signer":{"sha256":["5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"]},"usesSdk":{"minSdkVersion":24,"targetSdkVersion":33},"versionCode":1,"versionName":"1.0"}}}},"com.opendroid.aiagent":{"metadata":{"added":1790347440000,"categories":["connectivity"],"description":{"en-US":"OpenDroid v1.0.8 Mandy Edition: the open-source autonomous AI agent for Android, works out of the box. NO API key or setup needed: the Groq provider runs through Mandy server which holds the key. Provider, key and fast model (gpt-oss-20b, same as Phone Agent) are preselected on first launch. Tell your phone in plain language what to do and it does it: opens apps, sends WhatsApp messages and SMS, calls contacts, sets alarms and timers, controls brightness, WiFi, Bluetooth, flashlight, reads the screen, and runs multi-step routines on its own. Apache 2.0 open source. English UI. Works on Android 8+, no root. After install just grant Accessibility and Notification access."},"icon":{"en-US":{"name":"opendroid-icon.png","sha256":"abbf2be1decde22fe5608ad1192eded9e42685d020fbc25752148fd91c5f18e4"}},"lastUpdated":1790356348,"name":{"en-US":"OpenDroid"},"summary":{"en-US":"Autonomous AI agent that controls your phone for you"}},"versions":{"9":{"added":1790356348,"file":"OpenDroid_v1.0.8_signed.apk","filesize":57342298,"hash":"ca20ce6c03ba3c17dbcc3aa7c6229c105ed15bea34040e48e96f8a2a2fb2edab","hashType":"sha256","minSdkVersion":26,"signer":"5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9","srcname":"OpenDroid_v1.0.8_signed.apk","targetSdkVersion":36,"versionCode":9,"versionName":"1.0.8"}}}},"repo":{"address":"https://avanderberg48-collab.github.io/fdroid-repo/repo","description":{"en-US":"Accessible Android apps for blind users by Adrian Van der Berg"},"mirrors":[{"isPrimary":true,"url":"https://avanderberg48-collab.github.io/fdroid-repo/repo"}],"name":{"en-US":"Blind Community Apps"},"timestamp":1791541342,"webBaseUrl":"https://github.com/avanderberg48-collab/fdroid-repo"}}
+{
+ "packages": {
+  "com.mandy.accessichat": {
+   "metadata": {
+    "added": 1788280565,
+    "authorName": "Adrian Van der Berg",
+    "authorWebSite": "https://github.com/avanderberg48-collab",
+    "categories": [
+     "Communication",
+     "Games"
+    ],
+    "description": {
+     "en-US": "Accessible messenger with 88 voice games, radio, voice calling, AI assistant."
+    },
+    "lastUpdated": 1788280565,
+    "license": "Proprietary",
+    "name": {
+     "en-US": "AccessiChat"
+    },
+    "sourceCode": "https://github.com/avanderberg48-collab/fdroid-repo",
+    "summary": {
+     "en-US": "Accessible messenger with games"
+    }
+   },
+   "versions": {
+    "17a1398e6a0be4cbcf5e0989fb0eafe0bb0b3cee4942692d47611ad5f3dbdcc7": {
+     "added": 1788280565,
+     "file": {
+      "name": "/AccessiChat_v17.apk",
+      "sha256": "17a1398e6a0be4cbcf5e0989fb0eafe0bb0b3cee4942692d47611ad5f3dbdcc7",
+      "size": 3208842
+     },
+     "manifest": {
+      "signer": {
+       "sha256": [
+        "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
+       ]
+      },
+      "usesSdk": {
+       "minSdkVersion": 26,
+       "targetSdkVersion": 33
+      },
+      "versionCode": 17,
+      "versionName": "17.0"
+     }
+    }
+   }
+  },
+  "com.mandy.adrianbrowser": {
+   "metadata": {
+    "added": 1788280565,
+    "authorName": "Adrian Van der Berg",
+    "authorWebSite": "https://github.com/avanderberg48-collab",
+    "categories": [
+     "Internet"
+    ],
+    "description": {
+     "en-US": "Accessible web browser with bookmarks, history, TTS read-aloud."
+    },
+    "lastUpdated": 1788280565,
+    "license": "Proprietary",
+    "name": {
+     "en-US": "Adrian Browser"
+    },
+    "sourceCode": "https://github.com/avanderberg48-collab/fdroid-repo",
+    "summary": {
+     "en-US": "Accessible web browser"
+    }
+   },
+   "versions": {
+    "9daa3aa832f86f6bd43a110cf239edc2c07de895cbf896358525a00d29286907": {
+     "added": 1788280565,
+     "file": {
+      "name": "/AdrianBrowser_v2.apk",
+      "sha256": "9daa3aa832f86f6bd43a110cf239edc2c07de895cbf896358525a00d29286907",
+      "size": 5960100
+     },
+     "manifest": {
+      "signer": {
+       "sha256": [
+        "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
+       ]
+      },
+      "usesSdk": {
+       "minSdkVersion": 21,
+       "targetSdkVersion": 33
+      },
+      "versionCode": 1,
+      "versionName": "1.0"
+     }
+    }
+   }
+  },
+  "com.mandy.blindkeyboard": {
+   "metadata": {
+    "added": 1789641021,
+    "authorName": "Adrian Van der Berg",
+    "authorWebSite": "https://github.com/avanderberg48-collab",
+    "categories": [
+     "System"
+    ],
+    "description": {
+     "en-US": "Accessible QWERTY keyboard with big keys, spoken key feedback and haptics. AI voice typing (Whisper large-v3) in English and Afrikaans with expert-level accuracy: triple-pass AI consensus, professional proofreading and verification. Voice notes with permanent links, clipboard tools, ENTER key, word suggestions. Built for TalkBack users."
+    },
+    "lastUpdated": 1789714673,
+    "license": "Proprietary",
+    "name": {
+     "en-US": "Blind AI Keyboard"
+    },
+    "sourceCode": "https://github.com/avanderberg48-collab/AccessiChat-WebApp-APK",
+    "summary": {
+     "en-US": "AI voice-typing keyboard for blind users"
+    }
+   },
+   "versions": {
+    "3c88107dabe39fad4212d140202ebcc40c98fde55c24112a1a1f23c34a87700e": {
+     "added": 1789714673,
+     "file": {
+      "name": "/blindkeyboard_ai_v16.apk",
+      "sha256": "ec074e5af829db104521750d1398130a4af262e10609480199a47fa65ff2d430",
+      "size": 4419475
+     },
+     "manifest": {
+      "signer": {
+       "sha256": [
+        "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
+       ]
+      },
+      "usesSdk": {
+       "minSdkVersion": 21,
+       "targetSdkVersion": 34
+      },
+      "versionCode": 16,
+      "versionName": "1.6"
+     },
+     "versionCode": 16
+    }
+   }
+  },
+  "com.mandy.cloudphone": {
+   "metadata": {
+    "added": 1788280565,
+    "authorName": "Adrian Van der Berg",
+    "authorWebSite": "https://github.com/avanderberg48-collab",
+    "categories": [
+     "Communication"
+    ],
+    "description": {
+     "en-US": "Cloud phone with calling, messaging, contacts. Native Android version."
+    },
+    "lastUpdated": 1788280565,
+    "license": "Proprietary",
+    "name": {
+     "en-US": "CloudPhone"
+    },
+    "sourceCode": "https://github.com/avanderberg48-collab/fdroid-repo",
+    "summary": {
+     "en-US": "Cloud phone app"
+    }
+   },
+   "versions": {
+    "872144a27e90fd3b586e65952af323ca39ced10264fb6ce21b11c83f1860eb15": {
+     "added": 1788280565,
+     "file": {
+      "name": "/CloudPhone_v5.apk",
+      "sha256": "872144a27e90fd3b586e65952af323ca39ced10264fb6ce21b11c83f1860eb15",
+      "size": 5597186
+     },
+     "manifest": {
+      "signer": {
+       "sha256": [
+        "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
+       ]
+      },
+      "usesSdk": {
+       "minSdkVersion": 24,
+       "targetSdkVersion": 33
+      },
+      "versionCode": 1,
+      "versionName": "1.0"
+     }
+    }
+   }
+  },
+  "com.mandy.connecti": {
+   "metadata": {
+    "added": 1788280565,
+    "authorName": "Adrian Van der Berg",
+    "authorWebSite": "https://github.com/avanderberg48-collab",
+    "categories": [
+     "Communication"
+    ],
+    "description": {
+     "en-US": "Messenger with text, photo, voice messages, groups, read receipts."
+    },
+    "lastUpdated": 1788280565,
+    "license": "Proprietary",
+    "name": {
+     "en-US": "Connecti"
+    },
+    "sourceCode": "https://github.com/avanderberg48-collab/fdroid-repo",
+    "summary": {
+     "en-US": "Accessible messenger"
+    }
+   },
+   "versions": {
+    "e49fea6eca242eac95ea2572a02b7226378e5c2d533dadf0835220e44edf8b4a": {
+     "added": 1788280565,
+     "file": {
+      "name": "/Connecti_v4.apk",
+      "sha256": "e49fea6eca242eac95ea2572a02b7226378e5c2d533dadf0835220e44edf8b4a",
+      "size": 5613570
+     },
+     "manifest": {
+      "signer": {
+       "sha256": [
+        "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
+       ]
+      },
+      "usesSdk": {
+       "minSdkVersion": 24,
+       "targetSdkVersion": 33
+      },
+      "versionCode": 1,
+      "versionName": "1.0"
+     }
+    }
+   }
+  },
+  "com.mandy.ignite": {
+   "metadata": {
+    "added": 1788280565,
+    "authorName": "Adrian Van der Berg",
+    "authorWebSite": "https://github.com/avanderberg48-collab",
+    "categories": [
+     "Dating"
+    ],
+    "description": {
+     "en-US": "South African dating app with profiles, matching, chat, voice notes."
+    },
+    "lastUpdated": 1788280565,
+    "license": "Proprietary",
+    "name": {
+     "en-US": "Ignite Dating"
+    },
+    "sourceCode": "https://github.com/avanderberg48-collab/fdroid-repo",
+    "summary": {
+     "en-US": "Accessible dating app"
+    }
+   },
+   "versions": {
+    "c2a3d70f416580a3e716862b8410a8521ec50be6cc3ec30440e69e4a73cc81da": {
+     "added": 1788280565,
+     "file": {
+      "name": "/Ignite_v3.apk",
+      "sha256": "c2a3d70f416580a3e716862b8410a8521ec50be6cc3ec30440e69e4a73cc81da",
+      "size": 5602536
+     },
+     "manifest": {
+      "signer": {
+       "sha256": [
+        "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
+       ]
+      },
+      "usesSdk": {
+       "minSdkVersion": 24,
+       "targetSdkVersion": 33
+      },
+      "versionCode": 1,
+      "versionName": "1.0"
+     }
+    }
+   }
+  },
+  "com.mandy.mandyagent": {
+   "metadata": {
+    "added": 1788280565,
+    "authorName": "Adrian Van der Berg",
+    "authorWebSite": "https://github.com/avanderberg48-collab",
+    "categories": [
+     "AI"
+    ],
+    "description": {
+     "en-US": "Chat directly with Mandy AI. Voice notes, file attachments, AI voice calls."
+    },
+    "lastUpdated": 1788280565,
+    "license": "Proprietary",
+    "name": {
+     "en-US": "Ask Mandy"
+    },
+    "sourceCode": "https://github.com/avanderberg48-collab/fdroid-repo",
+    "summary": {
+     "en-US": "Chat with Mandy AI"
+    }
+   },
+   "versions": {
+    "1e4fc376d96e3fa9c315c92f9c045922b74472ae58708732df3074b9e3c45cc8": {
+     "added": 1788280565,
+     "file": {
+      "name": "/AskMandy_v7.apk",
+      "sha256": "1e4fc376d96e3fa9c315c92f9c045922b74472ae58708732df3074b9e3c45cc8",
+      "size": 5514593
+     },
+     "manifest": {
+      "signer": {
+       "sha256": [
+        "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
+       ]
+      },
+      "usesSdk": {
+       "minSdkVersion": 24,
+       "targetSdkVersion": 33
+      },
+      "versionCode": 7,
+      "versionName": "7.0"
+     }
+    }
+   }
+  },
+  "com.mandy.mandyagent.offline": {
+   "metadata": {
+    "added": 1788280565,
+    "authorName": "Adrian Van der Berg",
+    "authorWebSite": "https://github.com/avanderberg48-collab",
+    "categories": [
+     "AI",
+     "System"
+    ],
+    "description": {
+     "en-US": "Offline AI assistant with phone control and training."
+    },
+    "lastUpdated": 1788280565,
+    "license": "Proprietary",
+    "name": {
+     "en-US": "Mandy Agent Offline"
+    },
+    "sourceCode": "https://github.com/avanderberg48-collab/fdroid-repo",
+    "summary": {
+     "en-US": "Offline AI assistant"
+    }
+   },
+   "versions": {
+    "0ab43c2301751cac6bd407fbc97060f00c6368f3b76580122fda8dea68166d8a": {
+     "added": 1788280565,
+     "file": {
+      "name": "/MandyOffline_v2.apk",
+      "sha256": "0ab43c2301751cac6bd407fbc97060f00c6368f3b76580122fda8dea68166d8a",
+      "size": 3769974
+     },
+     "manifest": {
+      "signer": {
+       "sha256": [
+        "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
+       ]
+      },
+      "usesSdk": {
+       "minSdkVersion": 26,
+       "targetSdkVersion": 33
+      },
+      "versionCode": 1,
+      "versionName": "1.0"
+     }
+    }
+   }
+  },
+  "com.mandy.mandykeyboard": {
+   "metadata": {
+    "added": 1790698084,
+    "categories": [
+     "System"
+    ],
+    "description": {
+     "en-US": "Mandy Keyboard: a big, talking keyboard for blind users. Voice typing powered by Mandy's AI. EN-to-AF translate mode: speak English and it types Afrikaans. Long voice messages: no time limit, records in 20-second parts and transcribes live. Language cycle: Auto, English, Afrikaans, EN-to-AF translate. Type by touch with full QWERTY, capitals and numbers. Clipboard with copy, cut, paste and select all. Every key speaks out loud when touched."
+    },
+    "lastUpdated": 1790850798,
+    "license": "Proprietary",
+    "name": {
+     "en-US": "Mandy Keyboard"
+    },
+    "sourceCode": "https://github.com/avanderberg48-collab/AccessiChat-WebApp-APK",
+    "summary": "Accessible AI keyboard: voice typing, EN-to-AF translate, long messages"
+   },
+   "versions": {
+    "1": {
+     "added": 1790698084,
+     "file": {
+      "name": "MandyKeyboard_v1_signed.apk",
+      "sha256": "6722df68a15ad3f860dcf635ea4459a771630accbc5393e86fb4f043d9c7e974",
+      "size": 26608
+     },
+     "filesize": 26608,
+     "hash": "6722df68a15ad3f860dcf635ea4459a771630accbc5393e86fb4f043d9c7e974",
+     "hashType": "sha256",
+     "minSdkVersion": 21,
+     "signer": [
+      "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
+     ],
+     "targetSdkVersion": 34,
+     "versionCode": 1,
+     "versionName": "1.0"
+    },
+    "3": {
+     "added": 1790850798,
+     "file": {
+      "name": "MandyKeyboard_v2.1_signed.apk",
+      "sha256": "55b28955f4813b50a70b47c4530fed14870b57d6d764c131f192c0d0c297dbdd",
+      "size": 29290
+     },
+     "filesize": 29290,
+     "hash": "55b28955f4813b50a70b47c4530fed14870b57d6d764c131f192c0d0c297dbdd",
+     "hashType": "sha256",
+     "minSdkVersion": 21,
+     "signer": [
+      "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
+     ],
+     "targetSdkVersion": 34,
+     "versionCode": 3,
+     "versionName": "2.1"
+    }
+   }
+  },
+  "com.mandy.mistralkeyboard": {
+   "metadata": {
+    "added": 1791097884,
+    "categories": [
+     "System"
+    ],
+    "description": {
+     "en-US": "Mandy Mistral Keyboard: a big, talking keyboard for blind users. AI voice typing powered 100 percent by Mistral AI: Voxtral voice recognition with an AI brain that writes beautiful Afrikaans or English. Language key: Auto, English only, Afrikaans only. Clipboard with select all, copy, cut and paste. Numbers and symbols mode. Enter sends, delete removes one letter, clear removes everything. Every key speaks out loud when touched."
+    },
+    "lastUpdated": 1791097884,
+    "license": "Proprietary",
+    "name": {
+     "en-US": "Mandy Mistral Keyboard"
+    },
+    "sourceCode": "https://github.com/avanderberg48-collab/AccessiChat-WebApp-APK",
+    "summary": "Accessible AI voice typing keyboard powered by Mistral"
+   },
+   "versions": {
+    "1": {
+     "added": 1791097884,
+     "file": {
+      "name": "MandyMistralKeyboard_v1_signed.apk",
+      "sha256": "c0e448a218e99e41e9ea083445ff1e920fd3d6cb8fbf6be33828da9f4336ec17",
+      "size": 29290
+     },
+     "filesize": 29290,
+     "hash": "c0e448a218e99e41e9ea083445ff1e920fd3d6cb8fbf6be33828da9f4336ec17",
+     "hashType": "sha256",
+     "minSdkVersion": 21,
+     "signer": [
+      "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
+     ],
+     "targetSdkVersion": 34,
+     "versionCode": 1,
+     "versionName": "1.0"
+    }
+   }
+  },
+  "com.mandy.nvdamobile": {
+   "metadata": {
+    "added": 1791022646,
+    "categories": [
+     "Accessibility"
+    ],
+    "description": {
+     "en-US": "NVDA Mobile is a full screen reader modelled on the NVDA screen reader for Windows, built for blind users. Explore by touch: drag your finger and everything speaks. Double-tap activates. Swipe right or down for the next item, left or up for the previous. Three-finger tap switches between object mode and text review mode: navigate by character, word and line like the NVDA review cursor. Two-finger swipe down starts say-all with auto scroll; two-finger swipe right continues from the current item. Two-finger double-tap opens the NVDA menu with reports: current object, window title, time, date, battery, clipboard, spell and spell with character descriptions. Quick navigation jumps between buttons, edit fields, checkboxes, links, images, text blocks and lists. Input help mode makes every gesture announce what it does. Speech modes: speech, beeps or off. Per-app sleep mode keeps the reader silent in apps that speak for themselves. Screen curtain turns the display black while speech keeps working. Speaks Afrikaans or English with adjustable rate, pitch and volume, haptic feedback and a floating NVDA menu button."
+    },
+    "lastUpdated": 1791022646,
+    "license": "Proprietary",
+    "name": {
+     "en-US": "NVDA Mobile"
+    },
+    "sourceCode": "https://github.com/avanderberg48-collab/AccessiChat-WebApp-APK",
+    "summary": {
+     "en-US": "NVDA-style screen reader: review cursor, say-all, quick navigation"
+    }
+   },
+   "versions": {
+    "1": {
+     "added": 1791022646,
+     "file": {
+      "name": "NVDAMobile_v1_signed.apk",
+      "sha256": "0f84e7f8e16a7220194f4bffb5d0a23333b2b9c1d9b96b962666c2ceb535010a",
+      "size": 37426
+     },
+     "filesize": 37426,
+     "hash": "0f84e7f8e16a7220194f4bffb5d0a23333b2b9c1d9b96b962666c2ceb535010a",
+     "hashType": "sha256",
+     "minSdkVersion": 23,
+     "signer": [
+      "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
+     ],
+     "targetSdkVersion": 34,
+     "versionCode": 1,
+     "versionName": "1.0"
+    }
+   }
+  },
+  "com.mandy.pdfcreator": {
+   "metadata": {
+    "added": 1790668785,
+    "categories": [
+     "Writing"
+    ],
+    "description": {
+     "en-US": "PDF Creator: make any PDF document or e-book directly on your phone. Choose page size (A4, A5, Letter, Legal, or custom), margins and font size. Type or voice-type your text, add image pages, import long text as an auto-paginated e-book, read everything aloud with speech, and export, open or share the finished PDF. Built for blind users: every action speaks."
+    },
+    "lastUpdated": 1790668785,
+    "license": "Proprietary",
+    "name": {
+     "en-US": "PDF Creator"
+    },
+    "sourceCode": "https://github.com/avanderberg48-collab/AccessiChat-WebApp-APK",
+    "summary": "Create PDF documents and e-books, fully accessible"
+   },
+   "versions": {
+    "1": {
+     "added": 1790668785,
+     "file": {
+      "name": "PDFCreator_v1_signed.apk",
+      "sha256": "2266778094a31297fc9cd0590c31ffd754ff9feadfa0b9bac3059ed892d58a81",
+      "size": 37594
+     },
+     "filesize": 37594,
+     "hash": "2266778094a31297fc9cd0590c31ffd754ff9feadfa0b9bac3059ed892d58a81",
+     "hashType": "sha256",
+     "minSdkVersion": 26,
+     "signer": [
+      "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
+     ],
+     "targetSdkVersion": 34,
+     "versionCode": 1,
+     "versionName": "1.0"
+    }
+   }
+  },
+  "com.mandy.phoneagent": {
+   "metadata": {
+    "added": 1790253560,
+    "authorName": "Adrian Van der Berg",
+    "authorWebSite": "https://github.com/avanderberg48-collab",
+    "categories": [
+     "System"
+    ],
+    "description": {
+     "en-US": "Phone Agent: your personal AI agent that controls the phone by voice. v5.4 Agent Apps: 60 built-in apps and 60 built-in games, all offline, spoken and TalkBack friendly. v5.5 Online Apps: 60 online apps in the built-in browser, including Facebook, Messenger, WhatsApp Web, Instagram, X, Telegram, TikTok, News24, Takealot, YouTube, Gmail and 49 more. v5.5 also adds File Manager, Music Player and Photo Gallery. Plus voice control of WhatsApp, YouTube downloads, document writing, app building and the Mandy App Store."
+    },
+    "lastUpdated": 1791541342,
+    "license": "Proprietary",
+    "name": {
+     "en-US": "Phone Agent"
+    },
+    "sourceCode": "https://github.com/avanderberg48-collab/AccessiChat-WebApp-APK",
+    "summary": {
+     "en-US": "AI phone agent: 63 offline apps, 60 games, 60 online apps"
+    }
+   },
+   "versions": {
+    "18": {
+     "added": 1791541342,
+     "file": {
+      "name": "PhoneAgent_v5.5_signed.apk",
+      "sha256": "0cbb758cd54324bbab26aca1b2157047f9c303c2184b567035597840086fd307",
+      "size": 148186
+     },
+     "filesize": 148186,
+     "hash": "0cbb758cd54324bbab26aca1b2157047f9c303c2184b567035597840086fd307",
+     "hashType": "sha256",
+     "minSdkVersion": 26,
+     "signer": [
+      "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
+     ],
+     "targetSdkVersion": 34,
+     "versionCode": 18,
+     "versionName": "5.5"
+    }
+   }
+  },
+  "com.mandy.shineplus": {
+   "metadata": {
+    "added": 1790841563,
+    "categories": [
+     "Accessibility"
+    ],
+    "description": {
+     "en-US": "Shine Plus is a complete screen reader for blind users, in the spirit of the classic Shine Plus. Explore by touch: drag your finger and everything speaks. Double-tap to activate. Swipe right or down for the next item, swipe left or up for the previous. Two-finger swipe down reads the whole screen, two-finger swipe up stops speech. Two-finger swipe right reads from the current item, two-finger swipe left spells the last words letter by letter. Speaks element types and checkbox states, announces new screens and notifications, auto-scrolls lists while reading. English and Afrikaans speech with adjustable rate and pitch, vibration feedback, a floating menu button and a spoken step by step tutorial."
+    },
+    "lastUpdated": 1790841563,
+    "license": "Proprietary",
+    "name": {
+     "en-US": "Shine Plus"
+    },
+    "sourceCode": "https://github.com/avanderberg48-collab/AccessiChat-WebApp-APK",
+    "summary": "Full screen reader: explore by touch, swipe navigation, read all"
+   },
+   "versions": {
+    "1": {
+     "added": 1790841563,
+     "file": {
+      "name": "ShinePlus_v1_signed.apk",
+      "sha256": "f9b8883316a8fcb03a52ab46e14b891047e966ba194f4da759003a07554f26c5",
+      "size": 2399627
+     },
+     "filesize": 2399627,
+     "hash": "f9b8883316a8fcb03a52ab46e14b891047e966ba194f4da759003a07554f26c5",
+     "hashType": "sha256",
+     "minSdkVersion": 24,
+     "signer": [
+      "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
+     ],
+     "targetSdkVersion": 34,
+     "versionCode": 1,
+     "versionName": "1.0"
+    }
+   }
+  },
+  "com.mandy.smartkeyboard": {
+   "metadata": {
+    "added": 1790065838,
+    "authorName": "Adrian Van der Berg",
+    "authorWebSite": "https://github.com/avanderberg48-collab",
+    "categories": [
+     "System"
+    ],
+    "description": {
+     "en-US": "Smart Keyboard v1.1: AI voice typing with dual-pass Whisper consensus and Gemini 3 Flash proofreading. Afrikaans and English, translate English to Afrikaans, clipboard, symbols, voice notes, word suggestions, and FOTO key: take a photo and the AI describes it aloud."
+    },
+    "lastUpdated": 1790065838,
+    "license": "Proprietary",
+    "name": {
+     "en-US": "Smart Keyboard"
+    },
+    "sourceCode": "https://github.com/avanderberg48-collab/AccessiChat-WebApp-APK",
+    "summary": {
+     "en-US": "AI keyboard with photo descriptions"
+    }
+   },
+   "versions": {
+    "2": {
+     "added": 1790065838,
+     "file": "SmartKeyboard_v1.1.apk",
+     "filesize": 4332234,
+     "hash": "e3377bd8f8fd91bf447be2a073489e3fbd82f73222fba5c7604d2c8a3a9e63bd",
+     "hashType": "sha256",
+     "minSdkVersion": 26,
+     "signer": "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9",
+     "srcname": "SmartKeyboard_v1.1.apk",
+     "targetSdkVersion": 34,
+     "versionCode": 2,
+     "versionName": "1.1"
+    }
+   }
+  },
+  "com.mandy.wavecast": {
+   "metadata": {
+    "added": 1788280565,
+    "authorName": "Adrian Van der Berg",
+    "authorWebSite": "https://github.com/avanderberg48-collab",
+    "categories": [
+     "Audio"
+    ],
+    "description": {
+     "en-US": "Internet radio broadcast studio with live broadcasting and scheduling."
+    },
+    "lastUpdated": 1788280565,
+    "license": "Proprietary",
+    "name": {
+     "en-US": "WaveCast Studio"
+    },
+    "sourceCode": "https://github.com/avanderberg48-collab/fdroid-repo",
+    "summary": {
+     "en-US": "Internet radio studio"
+    }
+   },
+   "versions": {
+    "a5a72236bb9a02acebcccd8e8a427bdde651ba450707bfbe2854e848b795eb6c": {
+     "added": 1788280565,
+     "file": {
+      "name": "/WaveCast_v3.apk",
+      "sha256": "a5a72236bb9a02acebcccd8e8a427bdde651ba450707bfbe2854e848b795eb6c",
+      "size": 5576648
+     },
+     "manifest": {
+      "signer": {
+       "sha256": [
+        "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
+       ]
+      },
+      "usesSdk": {
+       "minSdkVersion": 24,
+       "targetSdkVersion": 33
+      },
+      "versionCode": 1,
+      "versionName": "1.0"
+     }
+    }
+   }
+  },
+  "com.opendroid.aiagent": {
+   "metadata": {
+    "added": 1790347440000,
+    "categories": [
+     "connectivity"
+    ],
+    "description": {
+     "en-US": "OpenDroid v1.0.8 Mandy Edition: the open-source autonomous AI agent for Android, works out of the box. NO API key or setup needed: the Groq provider runs through Mandy server which holds the key. Provider, key and fast model (gpt-oss-20b, same as Phone Agent) are preselected on first launch. Tell your phone in plain language what to do and it does it: opens apps, sends WhatsApp messages and SMS, calls contacts, sets alarms and timers, controls brightness, WiFi, Bluetooth, flashlight, reads the screen, and runs multi-step routines on its own. Apache 2.0 open source. English UI. Works on Android 8+, no root. After install just grant Accessibility and Notification access."
+    },
+    "icon": {
+     "en-US": {
+      "name": "opendroid-icon.png",
+      "sha256": "abbf2be1decde22fe5608ad1192eded9e42685d020fbc25752148fd91c5f18e4"
+     }
+    },
+    "lastUpdated": 1790356348,
+    "name": {
+     "en-US": "OpenDroid"
+    },
+    "summary": {
+     "en-US": "Autonomous AI agent that controls your phone for you"
+    }
+   },
+   "versions": {
+    "9": {
+     "added": 1790356348,
+     "file": "OpenDroid_v1.0.8_signed.apk",
+     "filesize": 57342298,
+     "hash": "ca20ce6c03ba3c17dbcc3aa7c6229c105ed15bea34040e48e96f8a2a2fb2edab",
+     "hashType": "sha256",
+     "minSdkVersion": 26,
+     "signer": "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9",
+     "srcname": "OpenDroid_v1.0.8_signed.apk",
+     "targetSdkVersion": 36,
+     "versionCode": 9,
+     "versionName": "1.0.8"
+    }
+   }
+  },
+  "com.mandy.agentkeyboard": {
+   "metadata": {
+    "added": 1791637346,
+    "categories": [
+     "System"
+    ],
+    "description": {
+     "en-US": "AI Agent Keyboard: a big, talking keyboard for blind users. The AI agent writes down exactly what you say, in Afrikaans or English, with perfect voice typing. No censoring, word-faithful, Afrikaans singers spelled right. Language key: Auto, English, Afrikaans. Normal QWERTY typing. Clipboard with select all, copy, cut and paste. Numbers and symbols mode. Enter sends, delete removes one letter, long press clears everything. Every key speaks out loud when touched."
+    },
+    "lastUpdated": 1791637346,
+    "license": "Proprietary",
+    "name": {
+     "en-US": "AI Agent Keyboard"
+    },
+    "sourceCode": "https://github.com/avanderberg48-collab/AccessiChat-WebApp-APK",
+    "summary": "AI agent keyboard: it writes exactly what you say"
+   },
+   "versions": {
+    "1": {
+     "added": 1791637346,
+     "file": {
+      "name": "AgentKeyboard_v1_signed.apk",
+      "sha256": "2dc7d905d10eaef59ab7028627d0d70815584b67ffdb012234393d07b9c67d27",
+      "size": 29290
+     },
+     "filesize": 29290,
+     "hash": "2dc7d905d10eaef59ab7028627d0d70815584b67ffdb012234393d07b9c67d27",
+     "hashType": "sha256",
+     "minSdkVersion": 21,
+     "signer": [
+      "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
+     ],
+     "versionCode": 1,
+     "versionName": "1.0",
+     "targetSdkVersion": 34
+    }
+   }
+  }
+ },
+ "repo": {
+  "address": "https://avanderberg48-collab.github.io/fdroid-repo/repo",
+  "description": {
+   "en-US": "Accessible Android apps for blind users by Adrian Van der Berg"
+  },
+  "mirrors": [
+   {
+    "isPrimary": true,
+    "url": "https://avanderberg48-collab.github.io/fdroid-repo/repo"
+   }
+  ],
+  "name": {
+   "en-US": "Blind Community Apps"
+  },
+  "timestamp": 1791541342,
+  "webBaseUrl": "https://github.com/avanderberg48-collab/fdroid-repo"
+ }
+}
