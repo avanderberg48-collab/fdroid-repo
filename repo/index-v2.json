@@ -745,7 +745,7 @@
     "description": {
      "en-US": "AI Agent Keyboard: a big, talking keyboard for blind users. The AI agent writes down exactly what you say, in Afrikaans or English, with perfect voice typing. No censoring, word-faithful, Afrikaans singers spelled right. Language key: Auto, English, Afrikaans. Normal QWERTY typing. Clipboard with select all, copy, cut and paste. Numbers and symbols mode. Enter sends, delete removes one letter, long press clears everything. Every key speaks out loud when touched."
     },
-    "lastUpdated": 1791637346,
+    "lastUpdated": 1791639065,
     "license": "Proprietary",
     "name": {
      "en-US": "AI Agent Keyboard"
@@ -770,6 +770,24 @@
      ],
      "versionCode": 1,
      "versionName": "1.0",
+     "targetSdkVersion": 34
+    },
+    "2": {
+     "added": 1791639065,
+     "file": {
+      "name": "AgentKeyboard_v1.1_signed.apk",
+      "sha256": "e3e2e08c1ba8a62602ab0c1753f277a461dd519f5dc2838d9f9d9d48d04ac78b",
+      "size": 33386
+     },
+     "filesize": 33386,
+     "hash": "e3e2e08c1ba8a62602ab0c1753f277a461dd519f5dc2838d9f9d9d48d04ac78b",
+     "hashType": "sha256",
+     "minSdkVersion": 21,
+     "signer": [
+      "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
+     ],
+     "versionCode": 2,
+     "versionName": "1.1",
      "targetSdkVersion": 34
     }
    }
