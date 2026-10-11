@@ -791,6 +791,44 @@
      "targetSdkVersion": 34
     }
    }
+  },
+  "com.mandy.speechengine": {
+   "metadata": {
+    "added": 1791698188,
+    "categories": [
+     "System"
+    ],
+    "description": {
+     "en-US": "AI Speech Engine: a system-wide AI speech recognition engine for Android. Any keyboard or app that uses the built-in voice input can use our trained AI brain: Afrikaans, English and auto-detect, no censoring, perfect recognition of names and singers. Patient listening: 6 seconds silence before it stops, 12 seconds to start speaking. Powered by the same brain as the AI Agent Keyboard."
+    },
+    "lastUpdated": 1791698188,
+    "license": "Proprietary",
+    "name": {
+     "en-US": "AI Speech Engine"
+    },
+    "sourceCode": "https://github.com/avanderberg48-collab/AccessiChat-WebApp-APK",
+    "summary": "AI speech recognition engine for all keyboards and apps"
+   },
+   "versions": {
+    "1": {
+     "added": 1791698188,
+     "file": {
+      "name": "SpeechEngine_v1_signed.apk",
+      "sha256": "e97a46fffe52abe9ac43e22583e1046b5e369537e94e85938d77c1462e2304ff",
+      "size": 21042
+     },
+     "filesize": 21042,
+     "hash": "e97a46fffe52abe9ac43e22583e1046b5e369537e94e85938d77c1462e2304ff",
+     "hashType": "sha256",
+     "minSdkVersion": 23,
+     "versionCode": 1,
+     "versionName": "1.0",
+     "signer": [
+      "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
+     ],
+     "targetSdkVersion": 34
+    }
+   }
   }
  },
  "repo": {
