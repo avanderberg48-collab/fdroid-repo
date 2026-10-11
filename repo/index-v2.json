@@ -829,6 +829,44 @@
      "targetSdkVersion": 34
     }
    }
+  },
+  "com.mandy.voicetyper": {
+   "metadata": {
+    "added": 1791700076,
+    "categories": [
+     "System"
+    ],
+    "description": {
+     "en-US": "Mandy Voice Typer: a floating microphone button that AI voice-types into any app and any text field, with any keyboard. Press the button, speak, and the trained AI brain writes the text straight into the active field: Afrikaans, English or auto, no censoring. For phones where the speech engine cannot be changed in settings. Drag the button anywhere you like. Patient listening: 6 seconds silence before stop, 12 seconds to start."
+    },
+    "lastUpdated": 1791700076,
+    "license": "Proprietary",
+    "name": {
+     "en-US": "Mandy Voice Typer"
+    },
+    "sourceCode": "https://github.com/avanderberg48-collab/AccessiChat-WebApp-APK",
+    "summary": "AI voice typing into any app via a floating mic button"
+   },
+   "versions": {
+    "1": {
+     "added": 1791700076,
+     "file": {
+      "name": "VoiceTyper_v1_signed.apk",
+      "sha256": "8f6bfe50cd0d1ab4b81dab305bef4c3d411ebb7717c4c54c742656b77b7e9dc2",
+      "size": 25194
+     },
+     "filesize": 25194,
+     "hash": "8f6bfe50cd0d1ab4b81dab305bef4c3d411ebb7717c4c54c742656b77b7e9dc2",
+     "hashType": "sha256",
+     "minSdkVersion": 23,
+     "versionCode": 1,
+     "versionName": "1.0",
+     "signer": [
+      "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
+     ],
+     "targetSdkVersion": 34
+    }
+   }
   }
  },
  "repo": {
