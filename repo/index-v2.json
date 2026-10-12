@@ -381,11 +381,11 @@
     "summary": "Accessible AI keyboard: voice typing, EN-to-AF translate, long messages"
    },
    "versions": {
-    "4": {
+    "5": {
      "added": 1790698084,
      "file": {
-      "name": "MandyKeyboard_v2.2_signed.apk",
-      "sha256": "5f98337a573889ec7cf818c67d3dedd61e674d51acb6f6ca0de0a1f7703bc6a6",
+      "name": "MandyKeyboard_v2.3_signed.apk",
+      "sha256": "12bfa57a0c22595abd2426c964c2a15db73801160138d9f91ded39ba19cee509",
       "size": 29290
      },
      "filesize": 26608,
@@ -396,8 +396,8 @@
       "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
      ],
      "targetSdkVersion": 34,
-     "versionCode": 4,
-     "versionName": "2.2"
+     "versionCode": 5,
+     "versionName": "2.3"
     }
    }
   },
