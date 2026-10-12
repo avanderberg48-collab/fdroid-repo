@@ -381,12 +381,12 @@
     "summary": "Accessible AI keyboard: voice typing, EN-to-AF translate, long messages"
    },
    "versions": {
-    "1": {
+    "4": {
      "added": 1790698084,
      "file": {
-      "name": "MandyKeyboard_v1_signed.apk",
-      "sha256": "6722df68a15ad3f860dcf635ea4459a771630accbc5393e86fb4f043d9c7e974",
-      "size": 26608
+      "name": "MandyKeyboard_v2.2_signed.apk",
+      "sha256": "5f98337a573889ec7cf818c67d3dedd61e674d51acb6f6ca0de0a1f7703bc6a6",
+      "size": 29290
      },
      "filesize": 26608,
      "hash": "6722df68a15ad3f860dcf635ea4459a771630accbc5393e86fb4f043d9c7e974",
@@ -396,26 +396,8 @@
       "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
      ],
      "targetSdkVersion": 34,
-     "versionCode": 1,
-     "versionName": "1.0"
-    },
-    "3": {
-     "added": 1790850798,
-     "file": {
-      "name": "MandyKeyboard_v2.1_signed.apk",
-      "sha256": "55b28955f4813b50a70b47c4530fed14870b57d6d764c131f192c0d0c297dbdd",
-      "size": 29290
-     },
-     "filesize": 29290,
-     "hash": "55b28955f4813b50a70b47c4530fed14870b57d6d764c131f192c0d0c297dbdd",
-     "hashType": "sha256",
-     "minSdkVersion": 21,
-     "signer": [
-      "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
-     ],
-     "targetSdkVersion": 34,
-     "versionCode": 3,
-     "versionName": "2.1"
+     "versionCode": 4,
+     "versionName": "2.2"
     }
    }
   },
