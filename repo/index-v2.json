@@ -892,6 +892,49 @@
     }
    },
    "name": "Blind Kombat 3"
+  },
+  "com.mandy.blindsudoku": {
+   "metadata": {
+    "added": 1790253560,
+    "authorName": "Adrian Van der Berg",
+    "authorWebSite": "https://github.com/avanderberg48-collab",
+    "categories": [
+     "System"
+    ],
+    "description": {
+     "en-US": "Phone Agent: your personal AI agent that controls the phone by voice. v5.4 Agent Apps: 60 built-in apps and 60 built-in games, all offline, spoken and TalkBack friendly. v5.5 Online Apps: 60 online apps in the built-in browser, including Facebook, Messenger, WhatsApp Web, Instagram, X, Telegram, TikTok, News24, Takealot, YouTube, Gmail and 49 more. v5.5 also adds File Manager, Music Player and Photo Gallery. Plus voice control of WhatsApp, YouTube downloads, document writing, app building and the Mandy App Store."
+    },
+    "lastUpdated": 1791541342,
+    "license": "Proprietary",
+    "name": {
+     "en-US": "Phone Agent"
+    },
+    "sourceCode": "https://github.com/avanderberg48-collab/AccessiChat-WebApp-APK",
+    "summary": {
+     "en-US": "AI phone agent: 63 offline apps, 60 games, 60 online apps"
+    }
+   },
+   "versions": {
+    "1": {
+     "added": 1791541342,
+     "file": {
+      "name": "BlindSudoku_v1_signed.apk",
+      "sha256": "86747e8f968fa6dd9149912f3f692446fe167dd47b189609030e2feee17fcbb5",
+      "size": 20986
+     },
+     "filesize": 148186,
+     "hash": "0cbb758cd54324bbab26aca1b2157047f9c303c2184b567035597840086fd307",
+     "hashType": "sha256",
+     "minSdkVersion": 26,
+     "signer": [
+      "5953401e6ea40fe82b21abf5a0eaa73562617814d9dc9225c6b7400fc4b47ff9"
+     ],
+     "targetSdkVersion": 34,
+     "versionCode": 1,
+     "versionName": "1.0"
+    }
+   },
+   "name": "Blind Sudoku"
   }
  },
  "repo": {
